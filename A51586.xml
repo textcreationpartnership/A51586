@@ -1,0 +1,2295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Symplegades antrum, or The rumpant story impartially relating their tyrannical dealings, and clymacterical downfall. Together with a congratulation of his most sacred Majesty in his most happy reign. By John Mullinax Dr. in Physick.</title>
+            <author>Mullinax, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51586</idno>
+            <idno type="STC">Wing M3058B</idno>
+            <idno type="STC">ESTC R213888</idno>
+            <idno type="EEBO-CITATION">99826144</idno>
+            <idno type="PROQUEST">99826144</idno>
+            <idno type="VID">30536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1798:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Symplegades antrum, or The rumpant story impartially relating their tyrannical dealings, and clymacterical downfall. Together with a congratulation of his most sacred Majesty in his most happy reign. By John Mullinax Dr. in Physick.</title>
+                  <author>Mullinax, John.</author>
+               </titleStmt>
+               <extent>[4], 55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30536:1"/>
+            <pb facs="tcp:30536:1"/>
+            <p>Symplegades Antrum, OR THE Rumpant Story; Impartially relating their Tyrannical dealings, and Clymacterical Downfall.</p>
+            <p>TOGETHER With a Congratulation of his moſt Sacred Majeſty in his moſt Happy REIGN.</p>
+            <p>By <hi>John Mullinax</hi> Dr. in Phyſick.</p>
+            <q>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et, Straw, Wat-Tiler, Cromwell prognatus eodem</l>
+               <l>On<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, incaſtarunt funeribus Patriam.</l>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>DON, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:30536:2"/>
+            <pb facs="tcp:30536:2"/>
+            <head>To the Illuſtrious and Victorious <hi>George</hi> Duke of <hi>Albemarle,</hi> Earl of <hi>Thorington,</hi> Ba<g ref="char:EOLhyphen"/>ron of <hi>Teeſe,</hi> Beauchampe, &amp;c. General of his Majeſties Forces, Maſter of the Horſe, Privy Counſellor, and Knight of the moſt Noble Order of the Garter, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe your Grace, to vouch<g ref="char:EOLhyphen"/>ſafe your benign and ſerene Aſ<g ref="char:EOLhyphen"/>pect upon theſe my rude &amp; bold Addreſſes, becauſe Almighty God hath made your gracious Excellency a wonderful Inſtrument in his hand for this moſt happy and bleſſed Change, which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mercy, the ſettlement of his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reſtoring of Parli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>berty
+<pb facs="tcp:30536:3"/>
+and Property of the Subject, and the Reformation of the Proteſtant Religion, for which bleſſing the Almighty God be for ever glorified; Your Grace receive your juſt Honour, and Praiſe, and the three King<g ref="char:EOLhyphen"/>domes bee for ever happy, under his moſt Excellent and moſt Gracious Majeſties Reign and Government.</p>
+            <closer>
+               <signed>
+                  <hi>So praies in all humble acknowledgment Your Graces moſt humble and faithful Servant</hi> J.M.D. Mae.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:30536:3"/>
+            <head>
+               <hi>Symplegadis antrum, ſuppoſitum caudae,</hi> OR, The Rumpant Story.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">B</seg>Rave <hi>Albion</hi> white, when ruled by a King</l>
+               <l>And Parlament, a ſtately glorious thing:</l>
+               <l>Triumphs at home, Conquers abroad, a ſting</l>
+               <l>To Rebels, but to Subjects true, a ſpring</l>
+               <l>Of Peace, and Juſtice, Mercy, Truth &amp; B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſ<g ref="char:EOLhyphen"/>ſing;</l>
+               <l>Belov'd, enjoy'd, obey'd, beyond expreſſing.</l>
+               <l>Theſe three Eſtates in Love and Juſtice, being</l>
+               <l>All in their Order, and all in one agreeing,</l>
+               <l>Did make us happy, then wee gladly ſing,</l>
+               <l>Grace to our Parlament, Glory to our King.</l>
+            </lg>
+            <lg>
+               <l>Sole <hi>Monarchy</hi> proves Tyranny, <hi>Sans</hi> Law,</l>
+               <l>Sole <hi>Ariſtocracy</hi> by force doth draw:</l>
+               <l>And ſole <hi>Democracy</hi> which the people chooſe,</l>
+               <l>Proves <hi>Oligarchy,</hi> which all good men refuſe.</l>
+               <l>Theſe three being juſtly ballanc'd was our glory,</l>
+               <l>The beſt of Governments. In every ſtory</l>
+               <l>The King hath his Prerogative and Rights,</l>
+               <l>The Lords their Honours, Powers and Delights,</l>
+               <l>The People Priviledge by Parlament,</l>
+               <l>God long had bleſt us with this Government.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:30536:4"/>
+               <l>When theſe divided, then our ſins did bring</l>
+               <l>A diſmal Judgement on us and our King,</l>
+               <l>Black, bloody Civil war, with every ſtring</l>
+               <l>Of Treaſons trouble; Viper-like wee ſting</l>
+               <l>Our Mothers bowels, the foot, and breaſt, aſpiring</l>
+               <l>To rule the head, and power ſo deſiring.</l>
+               <l>Then Priviledge Prerogative out drive,</l>
+               <l>The Royal Head, with Breaſt and Foot did ſtrive.</l>
+               <l>Religion, Law, and Libertie's pretended</l>
+               <l>By both, 'twixt theſe our bleſſed Peace is ended.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>England</hi> like <hi>Jeſhuron,</hi> fat and full, was kicking,</l>
+               <l>Gods beſt and bleſt of Governments deſpiſing:</l>
+               <l>Unruly murmuring, Changes affecting,</l>
+               <l>Provoke Gods Juſtice to our ſins correcting.</l>
+               <l>Our ſins were ripe for Judgement, few repenting,</l>
+               <l>In Court, in City, in Country, few relenting.</l>
+               <l>State, Church-men proud, Sabbath profanneſſe ſuffering,</l>
+               <l>And Superſtition made God abhor the offering,</l>
+               <l>Like <hi>Eli's</hi> ſons; the <hi>Scots</hi> the War begining,</l>
+               <l>Our Church is puniſht for our Nations ſining.</l>
+            </lg>
+            <lg>
+               <l>Some weary of a good and bleſſed King,</l>
+               <l>Would ſee a change in that Republick thing.</l>
+               <l>Plots laid before, I'th' Houſe they'r undermining,</l>
+               <l>New ſeeming Saints cry out for new refining.</l>
+               <l>They cry'd the Church had need of great reforming,</l>
+               <l>When under-hand 'gainſt King &amp; Church they'r ſtorming.</l>
+               <l>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d they been Papiſts, then their Pope declaring</l>
+               <l>Ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King an Heretique, might have made them daring.</l>
+               <l>But Proteſtants, a purer knick to bring</l>
+               <l>Seditions ſtrange, i'th' Church, i'th' State, toth' King.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:30536:4"/>
+               <l>The War's begun, thoſe ſores are tender things,</l>
+               <l>Sharp, Deep and Dangerous, 'twixt Parlaments &amp; Kings.</l>
+               <l>Brave men on both ſides, and ſucceſſe attending,</l>
+               <l>Now this, then that, God did expect our mending.</l>
+               <l>
+                  <hi>Militia</hi> and <hi>Aray,</hi> theſe two conteſt,</l>
+               <l>A ſeven years Civil war doth us moleſt.</l>
+               <l>In theſe three Kingdoms ſome on both ſides fighting,</l>
+               <l>
+                  <hi>Bellona</hi> bringeth War, Thunder and Lightning.</l>
+               <l>Blame neither ſide, but lay it on our ſins,</l>
+               <l>The which all trouble, war, and ruine brings.</l>
+            </lg>
+            <lg>
+               <l>How many years without dividing wee</l>
+               <l>Were happy in this Civil Trinity?</l>
+               <l>This three in one, and one in three, did make</l>
+               <l>
+                  <hi>England</hi> of all Gods bleſſings to partake.</l>
+               <l>Let's never more by Factions ſad divide</l>
+               <l>This one from three, our God bee ſtill their guide.</l>
+               <l>Let's never take our ſweet and bleſſed King</l>
+               <l>From our great Parlament him counſelling.</l>
+               <l>Let's never ſet two Houſes up more high</l>
+               <l>Againſt our King, his Crown and Dignity.</l>
+            </lg>
+            <lg>
+               <l>The Curſed'ſt Act that e'r were done before,</l>
+               <l>Theſe Black Diviſions brought unto our Door.</l>
+               <l>Blood, Murder, Treaſon, Rapine, and the Reſt,</l>
+               <l>In Kingdoms three, and in the Churches breſt:</l>
+               <l>No tongue can tell, fit only for Oblivion.</l>
+               <l>Let's live, and love, obey, hate new Diviſion.</l>
+               <l>Muſe weep the reſt, only pray God for healing,</l>
+               <l>For by this worſt of War, and curſed dealing,</l>
+               <l>The Foot's diſmemberd, and the Head out driving,</l>
+               <l>The Breaſts go forth, the monſtrous Rumps us riding.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:30536:5"/>
+               <l>Some Things of Forty Eight I ſhall declare,</l>
+               <l>The Yeares before doe paſs my Ferry Fare.</l>
+               <l>Brave Prentiſes of <hi>London</hi> they Petition</l>
+               <l>In Forty Eight, the Rump call's this Sedition.</l>
+               <l>And they'r abus'd, Impriſon'd, ſome i'th' Tower,</l>
+               <l>To Terrify the reſt, by Rumpiſh power.</l>
+               <l>Brave <hi>Marmaduke</hi> Sir <hi>Langdale</hi> doth ſurprize</l>
+               <l>
+                  <hi>Barwick,</hi> Sir <hi>Philip Muſgrave</hi> Son's Diſguiſe</l>
+               <l>Doth take <hi>Carlile,</hi> ſome ſtirre at <hi>Edmond's Bury,</hi>
+               </l>
+               <l>A brave Petition then doth come from <hi>Surrey.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Brave <hi>Kent</hi> doth joy the King, but then is ſlain</l>
+               <l>Sir <hi>Nicholas Kemiſh,</hi> and ſome Loyal Train.</l>
+               <l>The Navy, ſome Revolt, and <hi>Maidſtone</hi> fight,</l>
+               <l>
+                  <hi>Pomfret</hi> ſurpriz'd by <hi>Morris,</hi> doth them fright.</l>
+               <l>Brave Earl of <hi>Norwich</hi> is at <hi>Bow</hi> with's Forces,</l>
+               <l>The Rump had baſely voted no Addreſſes.</l>
+               <l>Theſe now were null'd, <hi>Francis</hi> Lord <hi>Villers</hi> ſlain,</l>
+               <l>
+                  <hi>Prince Charles</hi> upon the Sea, doth Sail again.</l>
+            </lg>
+            <lg>
+               <l>Scotch <hi>Hamilton's</hi> Army at <hi>Preſton</hi> beaten is,</l>
+               <l>Treaty i'th' Ile of <hi>Wight,</hi> our hope of bliſs.</l>
+            </lg>
+            <lg>
+               <l>But O brave <hi>Colcheſter</hi> ſtands out till all</l>
+               <l>Valor's orecome, by famin's ſadning Fall.</l>
+               <l>Brave <hi>Lucas</hi> good Sir <hi>Charles</hi> is ſhot to Death,</l>
+               <l>And Sir <hi>George Liſle</hi> doth alſo loſe his breath</l>
+               <l>'Gainſt promis'd Life, though <hi>Fairfax</hi> was abus'd,</l>
+               <l>
+                  <hi>Nol</hi> oft this breach of faith had ſadly us'd.</l>
+               <l>Army Remonſtrance comes from <hi>Winſor</hi> Caſtle,</l>
+               <l>
+                  <hi>Nol</hi> now for power moſt cunningly doth wraſtle.</l>
+               <l>Rebellious Army Traiterouſly advance</l>
+               <l>To <hi>London,</hi> their own Intereſt to inhance.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:30536:5"/>
+               <l>The King's Conceſſions gave ſome ſatisfaction,</l>
+               <l>So Voted in that time of ſad Diſtraction.</l>
+               <l>Thank <hi>Prinne</hi> for that, the People are deluded,</l>
+               <l>Thoſe Honeſt Members now they are Secluded,</l>
+               <l>Impriſon'd againſt Law, Religion, Reaſon,</l>
+               <l>And then the Rump doth Vote the Higheſt Treaſon.</l>
+               <l>From <hi>Wight</hi> to <hi>Hurſt,</hi> to <hi>Windzor</hi> the King is brought,</l>
+               <l>How much deceiv'd by <hi>Nol,</hi> when ſold for nought.</l>
+               <l>Now by their Army doth the Rumpiſh ſtream</l>
+               <l>Vote in themſelves all Power to be Supream.</l>
+            </lg>
+            <lg>
+               <l>Though Few i'th' Houſe, the major part did vote</l>
+               <l>An ordinance, to cut. <hi>King Charles</hi> his Throat.</l>
+               <l>No writs muſt longer run in the King's name,</l>
+               <l>The Term's adjourn'd, they care not now for ſhame.</l>
+               <l>The Scotch Commiſſioners declare diſſent,</l>
+               <l>The Agreement of the People ſome preſent.</l>
+               <l>That tearm they give, although throughout the land</l>
+               <l>Thouſands for one did ſcorn to ſet their hand.</l>
+               <l>The Rump thinks All their own, are baſely proud,</l>
+               <l>Yet ſure Kings bloud toth' Heavens cryes aloud.</l>
+            </lg>
+            <lg>
+               <l>Seven Things like Heads, and Hornes, this Rumpiſh thing,</l>
+               <l>No Head, All Tayl, unto three Kingdomes bring.</l>
+               <l>Their own Houſe firſt, like Serpents Vipering,</l>
+               <l>The Rumpiſh part the Major part out fling,</l>
+               <l>The Ile of <hi>Wight's</hi> Conceſſions Ravelling,</l>
+               <l>By their proud Army all things levelling.</l>
+               <l>About four hundred of their houſe proteſting,</l>
+               <l>With many Lords, and all good men deteſting</l>
+               <l>Their black deſignes, then Holineſs profeſſing,</l>
+               <l>They Cheat the City next, and ſo progreſſing,</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:30536:6"/>
+               <l>They Cheat the Presbyterians, who not perceiving,</l>
+               <l>Their dark deep Plots, are caught in their deceiving.</l>
+               <l>Vote the King's Trial, and then ſet up a Court</l>
+               <l>Of Lawleſs Bloudy men, them to ſupport.</l>
+               <l>Baſe <hi>Rhadamantus, Bradſhaw's</hi> Preiſts are praying,</l>
+               <l>With <hi>Jezabel</hi> Faſt, whiles they their King betraying.</l>
+               <l>The <hi>Scotch</hi> Commiſſioners from their Parlament,</l>
+               <l>Now Charge the Rump, with breach of Covenant.</l>
+               <l>Embaſſadors come from <hi>Holland,</hi> full of Grief,</l>
+               <l>The States deſire to ſave <hi>King Charles</hi> his life.</l>
+            </lg>
+            <lg>
+               <l>But they that now are heightned in Rebellion,</l>
+               <l>Change Lawes, and Oathes, and ſo muſt change Religion.</l>
+               <l>The Lamb's brought forth, the Charge is drawn, producing</l>
+               <l>Falſe Witneſſes, the Sects are all Rejoycing.</l>
+               <l>The King's at Bar, Traitors o'th' Bench, him Greeting</l>
+               <l>In his own Courts, Injuſtice makes the meeting.</l>
+               <l>The Law's arraign'd, a Juncto baſe is ſitting,</l>
+               <l>The Jeſuites Deſignes, them alwayes fitting.</l>
+               <l>Before they hear him, his death ſubſcribe, and ſeal,</l>
+               <l>Perſians, Jewes, Turks, come ſhew a parallel.</l>
+            </lg>
+            <lg>
+               <l>The power of that Court the King denying,</l>
+               <l>He muſt not ſpeak, they Sentence paſs for dying.</l>
+               <l>Our <hi>Pilate</hi> waſht in's own King's bloud, Murdering</l>
+               <l>Bleſt <hi>Charles,</hi> who like his Saviour ſuffering.</l>
+               <l>Like to the Lamb of God, this Lamb is pardoning</l>
+               <l>His Foes, ſo dyes the Rump, their hearts are hard'ning.</l>
+               <l>Thy Palace was thy <hi>Calvary,</hi> bleſt King,</l>
+               <l>There thou our Martyr, Thy Royal Head a Spring</l>
+               <l>Of Wiſdom's Goodneſs, for pure Conſcience dying,</l>
+               <l>Untill Reveng'd, Kings bloud's a ſin ſtill crying.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:30536:6"/>
+               <l>Black Forty eights <hi>Ter deno Jani</hi> ſadning</l>
+               <l>All Chriſtians hearts, the Rumpiſh Sects are bathing</l>
+               <l>Themſelves in our dear Princes bloud, flattering</l>
+               <l>Their falſe proud Hopes, never to ſee a ſcattering.</l>
+               <l>The Scaffold <hi>Charles</hi> his <hi>Olivet</hi> aſcending,</l>
+               <l>Where Saints and Angels Glory ſing, Tranſcending.</l>
+               <l>They Traiterouſly thus murder <hi>Charles</hi> our King,</l>
+               <l>At his own Houſe, the Houſe of Banqueting.</l>
+               <l>At one ſad blow, three Kingdomes Murdering,</l>
+               <l>All that was ſacred, Laws and Faith diſordering.</l>
+            </lg>
+            <lg>
+               <l>They never thought of Juſtice, for to bring</l>
+               <l>Themſelves to Judgment, &amp; make this <hi>Charles</hi> our King.</l>
+               <l>But God's the God of Kings, his righteous Judging,</l>
+               <l>Made us ſubmit, and mourn, and leave our Grudging.</l>
+               <l>How can my Subjects live, Juſtice expecting,</l>
+               <l>So our Bleſt <hi>Charles</hi> Their King, they thus rejecting?</l>
+               <l>No Law made theſe a Court, to Try our King,</l>
+               <l>Of all Injuſtice now the Rump's the Spring.</l>
+               <l>The Law of Thieves, the Sword that lawleſs Thing,</l>
+               <l>All our black Miſeries to paſs did bring.</l>
+            </lg>
+            <lg>
+               <l>Thoſe Courts of Juſtice were of their own making,</l>
+               <l>His Life, his Lands, his Laws, his Power Taking.</l>
+               <l>Good God, wher's Juſtice now? Thine own Anointed,</l>
+               <l>Our Hopes, our Hearts, our Head, our Law's disjoynted.</l>
+               <l>The well built Pillars, of three Kingdom's down,</l>
+               <l>They Cull and take, the power and the Crown.</l>
+               <l>King, Nobles, Commons, and the Clergy then,</l>
+               <l>Become a Sacrifice, to theſe bloudy Men.</l>
+               <l>That God, Heavens, Earth, and Men, ſhould ſee this thing,</l>
+               <l>All ſilent be, my Muſe he's ſilencing.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:30536:7"/>
+               <l>Prieſts of th' <hi>Ignatian</hi> brood this Rump ſtir up,</l>
+               <l>Others deluded doe alſo fill the Cup.</l>
+               <l>
+                  <hi>Catilines</hi> and <hi>Scylla's,</hi> and baſe <hi>Marius</hi> plots,</l>
+               <l>Are nothing to theſe <hi>Demogorgons</hi> knots.</l>
+               <l>Such Saints of baſe and mean extraction doe</l>
+               <l>That's fit for Villaines, and for Divels too.</l>
+               <l>
+                  <hi>England</hi> Repent and Mourn, A woful Thing</l>
+               <l>'S committed in thee, Murdering <hi>Charls</hi> thy King.</l>
+               <l>Religion is pretended for this Act,</l>
+               <l>And God's Grand Juſtice for this curſed Fact.</l>
+            </lg>
+            <lg>
+               <l>God will be Juſt, Great <hi>Charles</hi> his Royal Suffering</l>
+               <l>'S a Sacrifice, three Kingdomes Royal Offering.</l>
+               <l>We pray'd for Juſtice True, this <hi>Charles</hi> to ſee,</l>
+               <l>Their Common Wealth's our Common Miſery.</l>
+               <l>O God forgive thy People truly Mourning</l>
+               <l>For this Grand ſin, though ſome were hardned ſpurning</l>
+               <l>At thy Grand patience, Thy Act of Mercy Great,</l>
+               <l>And Full Oblivion, we humbly Lord Intreat.</l>
+               <l>Thouſands were Innocent of this Grand diſſembling,</l>
+               <l>Whoſe Souls in humbling ſorrow have been trembleing.</l>
+            </lg>
+            <lg>
+               <l>Theſe Men the worſt of Murderers Fame doth Sing,</l>
+               <l>The Beſt of Kings, Bleſt <hi>Charles</hi> our Royal King.</l>
+               <l>All thoſe that in this ſin are ſtill perſiſting,</l>
+               <l>And ſo thy Gracious Mercy ſtill Reſiſting.</l>
+               <l>Bring them to Juſtice Lord, their Soules yet ſave,</l>
+               <l>For none but Devils Damnation of them Crave.</l>
+               <l>In Man's Grand Juſtice give them mercy Great,</l>
+               <l>And for that Curſed Fact, Repentance meet.</l>
+               <l>Wee doe believe, that thou art God forgiving,</l>
+               <l>If wee Repent, and change our wicked living.</l>
+               <pb facs="tcp:30536:7"/>
+            </lg>
+            <lg>
+               <pb facs="tcp:30536:8"/>
+               <pb n="9" facs="tcp:30536:8"/>
+               <l>The Rump then Vote their Lords an uſeleſs thing,</l>
+               <l>It's juſt with God they ſuffer with their King:</l>
+               <l>Some Lords moſt coldly out from their Houſe going,</l>
+               <l>Whilſt Rump and Armed Sects are us undoing.</l>
+               <l>They Vote the Houſe of Lords a dangerous thing,</l>
+               <l>And burdenſome the Office of a King.</l>
+               <l>When they were then more burdenſome than both,</l>
+               <l>Cuſtomes, Excize, and Taxes, made us loathe</l>
+               <l>Their Government; they new Delinquents made,</l>
+               <l>For to keep up their ſtinking Rumpiſh trade.</l>
+            </lg>
+            <lg>
+               <l>Brave <hi>Reinoldſon</hi> Lord Mayor, would not proclaim</l>
+               <l>Their Act 'gainſt Kingly Government and Name.</l>
+               <l>Sequeſtred and Impriſon'd in the Tower,</l>
+               <l>This was the Juſtice of that Rumpiſh power;</l>
+               <l>They do the greateſt Treaſon, yet make Laws,</l>
+               <l>That all's high treaſon done againſt their Cauſe.</l>
+               <l>The Crown, the Jewels, Hangings, and the reſt</l>
+               <l>Of the Kings Goods are ſold, not to the beſt.</l>
+               <l>Both they themſelves, and eke their Army buy</l>
+               <l>And City friends, King <hi>Charls</hi> his Treaſury.</l>
+            </lg>
+            <lg>
+               <l>They kiſſe, betray, and kill, and yet are praiſing</l>
+               <l>Their own baſe Acts, all Subjects true upbraiding.</l>
+               <l>Three Kingdoms, Juſtice, Law, &amp; Power rending,</l>
+               <l>And yet Lay-Prieſts, Lay-Prelats, them commending,</l>
+               <l>The people never choſe them ſuch a thing,</l>
+               <l>A Common-wealth 'gainſt Law, and 'gainſt their King.</l>
+               <l>High Courts of cruel, foul injuſtice making,</l>
+               <l>Who by proud Tyrants power, ſhare partaking.</l>
+               <l>Both Witneſs, Judge, and Jury too, did buy</l>
+               <l>Themſelves th' Eſtates of thoſe they doom'd to dye.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:30536:9"/>
+               <l>Fluſht with Kings bloud, then Lords &amp; Prieſts they ſlay,</l>
+               <l>All but themſelves, they alwayes did betray.</l>
+               <l>How many ſuffer Death, none Death deſerving,</l>
+               <l>The Rumpiſh ſtinking power for preſerving?</l>
+               <l>Duke <hi>Hamilton,</hi> Earle <hi>Holland</hi> next condemning,</l>
+               <l>And brave Lord <hi>Capel</hi> dyes, His King Commending.</l>
+               <l>The Earle of <hi>Norwich</hi> getteth a Reprieve,</l>
+               <l>And Sir <hi>John Owen's</hi> voted for to Live.</l>
+               <l>And <hi>Doriſlaus</hi> is in <hi>Holland</hi> ſlain,</l>
+               <l>Vengeance begins, for blood their cauſe did ſtain.</l>
+            </lg>
+            <lg>
+               <l>The Royal Iſſue, ſtately and Princely things,</l>
+               <l>Are ſtill preſerv'd by God the King of Kings,</l>
+               <l>Gracious and bleſt <hi>Elizabeth,</hi> God up taking,</l>
+               <l>With <hi>Charls</hi> his ſoul, the heavenly Quire up making.</l>
+               <l>Great <hi>York</hi> he ſcapes, God carries him away;</l>
+               <l>Brave <hi>Gloceſter</hi> young, God findes for him a day</l>
+               <l>To get from their baſe terms, before this time</l>
+               <l>Prince <hi>Charls</hi> was ſafe abroad, God hath the prime</l>
+               <l>Care, Rule, and Government of Princes Royal,</l>
+               <l>Which kept our hearts ſtill up, and kept us loyal.</l>
+            </lg>
+            <lg>
+               <l>Of what extract or Gentry were theſe men?</l>
+               <l>That ſuch ſtupendious acts performed then.</l>
+               <l>Of what Religion were theſe bloody minded?</l>
+               <l>Although Religion is in all things pretended,</l>
+               <l>The worſt of Treaſon's acted by new Saints,</l>
+               <l>For true ones hated all thoſe jugling paints.</l>
+               <l>Such medley, made ingredients were, i'th' Rump,</l>
+               <l>As if from <hi>Phlegeton</hi> Deſigns they pump.</l>
+               <l>Now that my Muſe ſome ſervice due hath done</l>
+               <l>To bleſſed <hi>Charls,</hi> their acts ſhe will o're run.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:30536:9"/>
+               <l>Twelve years theſe Traitors keep out <hi>Charls</hi> their King,</l>
+               <l>A Common-wealth they out of Kingdoms bring,</l>
+               <l>And Churches out of Churches gathering,</l>
+               <l>Their ſins on Providence ſtill fathering.</l>
+               <l>Perjur'd Hypocriſie pretends the things</l>
+               <l>Agree, to fear God and to kill their Kings.</l>
+               <l>Their wild Religious zeal, all bordering</l>
+               <l>On Schiſm, Faction, Falſhood, all diſordering.</l>
+               <l>All but themſelves from heaven baniſhing,</l>
+               <l>And now themſelves below are vaniſhing.</l>
+            </lg>
+            <lg>
+               <l>Kingdoms confounders, who by Tub-prating,</l>
+               <l>And <hi>Jerobohams</hi> Calves were alwayes ſtating</l>
+               <l>Their own baſe intereſt, by Taxes rating</l>
+               <l>The ſadned people, and all their ſtates partaking.</l>
+               <l>Lay-Prelats and Lay-Prieſts, a worſer thing</l>
+               <l>Than thoſe of <hi>Rome,</hi> the Goſpel now did ſting.</l>
+               <l>Religion's mangled, and the Sects are mingling</l>
+               <l>Their falſe opinions, and with ſome truths are jingling,</l>
+               <l>The loweſt of the people Prieſts becomming,</l>
+               <l>Tinkers and Taylors, the Pulpits Coblers thumming.</l>
+            </lg>
+            <lg>
+               <l>Weavers and Bakers, Brewers and Draymens fling,</l>
+               <l>Baſe upſtart Lords, baſe new-found Gentry ſpring.</l>
+               <l>Baſe Counſellors, Projectors, and Committees,</l>
+               <l>Like <hi>Pharaohs</hi> Frogs i'th' Church, i'th' Towns, in Cities.</l>
+               <l>Baſe Sequeſtrators, and baſe deciming,</l>
+               <l>Old Theeving, newly called Plundering.</l>
+               <l>Baſe Rumpant Dragons, that were ſtill a tearing</l>
+               <l>Our ſtates and ſouls, and all our Laws outwearing.</l>
+               <l>Not one good Law they made, but all made running</l>
+               <l>Their own baſe byaſſe, by their power and cunning.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:30536:10"/>
+               <l>Baſe turn coat Prieſts, baſe Lawyers Laws abuſing</l>
+               <l>For their moſt unjuſt Fees, baſe powers chuſing;</l>
+               <l>Pleading, defending, all's done by Law, all's juſt,</l>
+               <l>When as they knew all done by will and luſt.</l>
+               <l>Kings blood-ſuckers, to raiſe themſelves and bring</l>
+               <l>All theirs on high, the wheel is now turning.</l>
+               <l>Prophane Church-robbers, baſe buyers, and baſe ſellers,</l>
+               <l>All unjuſt getters, and mony-changing tellers.</l>
+               <l>Such creatures did make up this Rumpiſh power;</l>
+               <l>Inſtead of whips, with ſcorpions they devour.</l>
+            </lg>
+            <lg>
+               <l>One peece of Juſtice of the Rumps Committee,</l>
+               <l>The which was brought to paſſe in a grand City.</l>
+               <l>A Trunk of Plate and Mony there was found,</l>
+               <l>The which was worth about two thouſand pound.</l>
+               <l>This was good provender, by th' Arms the Plate</l>
+               <l>Was known, a pretious booty for the State.</l>
+               <l>The Knight was dead ſome years before the War</l>
+               <l>Began, this Trunk gave to his Daughter fair,</l>
+               <l>His only childe, there put for to be kept</l>
+               <l>From thoſe to whom all's fiſh that comes to net.</l>
+            </lg>
+            <lg>
+               <l>The Committee often meet, the caſe is pleaded,</l>
+               <l>Some honeſt men among them interceded,</l>
+               <l>The childe was not at age, the Lady good</l>
+               <l>That hid it no Malignant, her husband ſtood</l>
+               <l>For Parlament, how then can this bee plunder?</l>
+               <l>Yet if ſome men do loſe the Gold, it's wonder.</l>
+               <l>Two chief ones plead (the gold was ſure their aim)</l>
+               <l>No matter whoſe it is, to us it came</l>
+               <l>By Providence, now we will ſurely pay</l>
+               <l>Our Souldiers, and will then make others pray.</l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:30536:10"/>
+               <l>Wee'l finger ſome, ſpend ſome in Feaſts, and then</l>
+               <l>The reſt wee'l pay the State, and they our men.</l>
+               <l>What colour muſt wee uſe? it's not pretence</l>
+               <l>But Juſtice wee will ſhew 'fore it go hence.</l>
+               <l>Though that the Knight was dead ſome years before</l>
+               <l>The war began, that will not quit this ſcore.</l>
+               <l>For had the Courtier Knight lived till now,</l>
+               <l>Hee would have been Malignant wee avow.</l>
+               <l>Shall wee loſe ſo much gold, and ſo much plate?</l>
+               <l>This feeling Providence will pleaſe the State.</l>
+            </lg>
+            <lg>
+               <l>This Knight was oft at Court, a Servant juſt</l>
+               <l>Toth' King, and would be faithfull to that truſt:</l>
+               <l>Was of great power in this ſame Country, let us</l>
+               <l>Sequeſter Gold and Plate, God will forget us.</l>
+               <l>The fewer honeſt men out. Voted are,</l>
+               <l>The State gets ſome, two fat ones get their ſhare,</l>
+               <l>Hee that diſcovered it gets none: it's juſt,</l>
+               <l>Theſe cheat the Ladies, keep the gold from ruſt.</l>
+               <l>Some friends did buy the condemn'd plate again,</l>
+               <l>Sure ſuch Committees ne'r rid <hi>Charls</hi> his Wain.</l>
+            </lg>
+            <lg>
+               <l>In every City and in every Town,</l>
+               <l>Such ſelf-Committee men were oft ſent down:</l>
+               <l>Unto account the Rump durſt not them call,</l>
+               <l>Cauſe guilty of the ſame, and fear a fall;</l>
+               <l>For Theeves by the accuſing one another,</l>
+               <l>Doe break their own necks, and do loſe their power.</l>
+               <l>The Reaſon, Juſtice, and the ſtate o'th' Cauſe,</l>
+               <l>The Money, Gold, and Plate, how ſtrong it draws?</l>
+               <l>Full many ſuch Examples wee can tell,</l>
+               <l>But none like this, of all, it bears the Bell.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="tcp:30536:11"/>
+               <l>One cryes <hi>Ka</hi> me to day, and Ile to morrow</l>
+               <l>
+                  <hi>Ka</hi> thee, come hang up carking care and ſorrow.</l>
+               <l>Let Conſcience never wake; ſome Office on</l>
+               <l>This Knave, that Fool a gift confer upon.</l>
+               <l>This place for one, that mony, and this Mannor,</l>
+               <l>The land they gave, but could not give the Honor.</l>
+               <l>Be ſure prefer our Chaplain Prieſts they cry,</l>
+               <l>They preach our Cauſe, defend our Piety.</l>
+               <l>No ſtatute now <hi>Mortmain,</hi> the Rump's the giver,</l>
+               <l>What is the ſtomach, when ſo bad's the Liver?</l>
+            </lg>
+            <lg>
+               <l>In many Garriſons men of no Religion,</l>
+               <l>Prating and ſpeaking, approv'd by every Wigeon.</l>
+               <l>What women then were thoſe that made the men</l>
+               <l>To make the Houſe of God, of Theeves a Den?</l>
+               <l>And Scripture for this wickedneſſe to bring,</l>
+               <l>Which Satan certainly did now bring in.</l>
+               <l>No man could find the true Religion pure</l>
+               <l>Scarce in the land, new Saints made it obſcure.</l>
+               <l>So was their Charity and Juſtice too,</l>
+               <l>By falſe opinions Religion to undo.</l>
+            </lg>
+            <lg>
+               <l>Their Scotch grand Covenant they juſtly brook,</l>
+               <l>Some Ignorant, ſome Innocent, it took,</l>
+               <l>Good God forgive them all that cannot keep</l>
+               <l>Thoſe ſnaring bonds, but do repent and weep.</l>
+               <l>Allegiance, Supremacy, nor Proteſtation,</l>
+               <l>No Oaths, nor Covenants for Reformation</l>
+               <l>Did bind this lawleſſe Rump, ſo ſweet is power,</l>
+               <l>Though falſe, uſurpt, yet fals in Gods juſt hour.</l>
+               <l>Juſt Oathes are ſacred unto ſacred men,</l>
+               <l>But nought bindes Changelings who are now and then.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:30536:11"/>
+               <l>That Covenant's put out by th' new Ingagement,</l>
+               <l>As Purgatory puts out Hels inragement.</l>
+               <l>As one Grand ſtory of a Safe Committee</l>
+               <l>My Muſe hath told, ſo of th' Ingagements pitty.</l>
+               <l>Two godly Miniſters that durſt not ingage</l>
+               <l>With divers others, did the Rump inrage.</l>
+               <l>God brings the Plague, th'Ingaging Miniſter's gone,</l>
+               <l>The other two are left i'th' Town alone.</l>
+               <l>God brings the Plague, theſe two good Miniſters then</l>
+               <l>The Cenſers take, and Incenſe burn, like men</l>
+            </lg>
+            <lg>
+               <l>Of God, both faſt, and preach, and pray to God,</l>
+               <l>To ſanctify his juſt and heavy rod.</l>
+               <l>
+                  <hi>Lackworth</hi> for non-Ingaging turns them out,</l>
+               <l>And all their Families for to rove about.</l>
+               <l>Moſt of the Country dare not take them in,</l>
+               <l>Thanks therefore unto thoſe that help did bring.</l>
+               <l>The Town's without a Prieſt, the plague's oppreſſing,</l>
+               <l>This worſe than Prelacy the Prieſts ſuppreſſing.</l>
+               <l>Oh tell it not in <hi>Romiſh Gath,</hi> 'tis well</l>
+               <l>That by no Proteſtants but Sects this fell.</l>
+            </lg>
+            <lg>
+               <l>How many Towns and Cities ſadly looſe</l>
+               <l>Their faithful Angels, 'cauſe they this refuſe?</l>
+               <l>Moſt holy men, that Pill they durſt not take,</l>
+               <l>But muſt their people, and their friends forſake.</l>
+               <l>All godly ones, that vain Inchantment hate,</l>
+               <l>Oathes againſt Oathes, but now what cares the State?</l>
+               <l>Yet for their Livings, many after in</l>
+               <l>Did come and take it, ſure it was their ſin.</l>
+               <l>Though ſome were couzen'd, and others did for fear,</l>
+               <l>Yet peace of Conſcience ſure is very dear.</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="tcp:30536:12"/>
+               <l>In all three Kingdoms ſome they did repent,</l>
+               <l>And for their own Kings bloud they did relent.</l>
+               <l>Study revenge, and venture all again</l>
+               <l>In <hi>England, Scotland, Ireland,</hi> and the Main.</l>
+               <l>King <hi>Charls</hi> proclaim'd in <hi>Scotland,</hi> there firſt own'd,</l>
+               <l>And then in <hi>Ireland,</hi> moſt long'd to ſee him Crown'd.</l>
+               <l>
+                  <hi>Ormond</hi> and <hi>Inchequin</hi> doe both appear,</l>
+               <l>But yet ſucceſſe doth not attend them there.</l>
+               <l>The fault not theirs, the time it was not come,</l>
+               <l>To reckon for King <hi>Charls</hi> his Martyrdome.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Cromwel</hi> is ſent to uſe his jugling there,</l>
+               <l>By Money, or Deceit, ſo every where</l>
+               <l>He conquers all, and then again returns</l>
+               <l>By blood, revenge, for power his ſpirit burns;</l>
+               <l>Pleads Providence and Mercy, God's in all,</l>
+               <l>Rides on ſucceſsfull to his deadly fall.</l>
+               <l>The powder blaſt in <hi>Tower-ſtreet</hi> did tell,</l>
+               <l>The Act of new Ingagement came from hell.</l>
+               <l>Gallant <hi>Montroſſe</hi> he ſadly is defeated,</l>
+               <l>And of his life, not Honour, ſadly cheated.</l>
+            </lg>
+            <lg>
+               <l>Againſt all Oathes, and Covenants, <hi>Nol</hi> enters</l>
+               <l>Then Kingly <hi>Scotland,</hi> where his blood he venters.</l>
+               <l>Gods Juſtice by this Rod them puniſhing</l>
+               <l>For brave <hi>Montreſſe,</hi> and yeelding up their King.</l>
+               <l>Gods ways are juſt, though ſecret; he's more filthy</l>
+               <l>Yet he muſt puniſh them that are leſſe guilty.</l>
+               <l>His hand's in all the Treaſons and the blood,</l>
+               <l>And yet pretends his heart is holy, good.</l>
+               <l>Thus by Gods hand, the wicked they are made</l>
+               <l>To puniſh wickedneſſe, that curſed trade.</l>
+            </lg>
+            <lg>
+               <pb n="17" facs="tcp:30536:12"/>
+               <l>As <hi>Tamberlain</hi> did <hi>Bajazet,</hi> ſo hee</l>
+               <l>For blood by blood paies home their treachery,</l>
+               <l>For after quarter, at <hi>Dunbar</hi> hee ſlayes</l>
+               <l>Thouſands, and then lifts up his hands and prayes.</l>
+               <l>When Papiſts conquer Papiſts, then they ſing</l>
+               <l>
+                  <hi>Te Deum;</hi> bad cauſe when proſper'd is a thing</l>
+               <l>Too high for men to dive into; admire</l>
+               <l>Thoſe things in which it's dangerous to aſpire.</l>
+               <l>An enemy in ſtraights turns deſperate mad</l>
+               <l>To dye or conquer, ventures all hee had.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Scots</hi> leave <hi>Edenbourgh, Noll</hi> buyes the Caſtle,</l>
+               <l>Money's a bait, more curſed was that Raſcle;</l>
+               <l>Some men are good at buying and at ſelling,</l>
+               <l>No conſcience ſpeaks when they are money telling,</l>
+               <l>With courage and with valour ſome are brave</l>
+               <l>For war, as any Royal Prince can have;</l>
+               <l>Some for Religion alſo zealous are,</l>
+               <l>
+                  <hi>Cromwel</hi> out-vyes them all, that's very rare;</l>
+               <l>The other Garriſons do mercy cry</l>
+               <l>To <hi>Cromwel,</hi> though they curſe his victory.</l>
+            </lg>
+            <lg>
+               <l>King <hi>Charls</hi> moſt ſolemnly was crown'd at <hi>Schoon</hi>
+               </l>
+               <l>In <hi>Scotland,</hi> enters <hi>England Auguſt</hi> Moon,</l>
+               <l>Comes in with his, like Lambs, doing no harm,</l>
+               <l>Not for proviſion; then the Rump doth ſtorm;</l>
+               <l>
+                  <hi>Nolls</hi> Gold's in <hi>Leaſelyes</hi> heart. To <hi>Woſter</hi> comes</l>
+               <l>King <hi>Charls,</hi> and's <hi>Scots,</hi> and there beats up his Drums,</l>
+               <l>Some <hi>Welch</hi>-men fear their fortunes for to try,</l>
+               <l>Baſe <hi>Mackworth</hi> doth deny him <hi>Shrewsbury.</hi>
+               </l>
+               <l>Now <hi>Love</hi> and <hi>Gibbons</hi> dye, the Heavens thundring</l>
+               <l>The Rump is harder than Rocks, men are wondring.</l>
+            </lg>
+            <lg>
+               <pb n="18" facs="tcp:30536:13"/>
+               <l>Oh that thy love had temper'd more thy zeal,</l>
+               <l>Bleſt <hi>Chriſtopher,</hi> thy parts they did reveal</l>
+               <l>Great gifts of Grace, thy Miniſtry was ſound,</l>
+               <l>Sweet, powerful, plain, and yet in all profound.</l>
+               <l>Thou art betray'd by thoſe that Faſt with thee,</l>
+               <l>And humbly ſeek the Lord pretendingly.</l>
+               <l>And by ſome of thine own coat art betray'd,</l>
+               <l>And yet of their injuſtice not afraid.</l>
+               <l>The Court, th'Atturney, Death doth not thee fright,</l>
+               <l>Thy Faith and Covenant to deny, that's right.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Gibbons</hi> is trapt to bee thy grand Compeer,</l>
+               <l>To dye with thee, to go to Heaven dear.</l>
+               <l>
+                  <hi>Loves</hi> deareſt friends, ſome ſmal reprieves did get,</l>
+               <l>This his temptation, his wife and children yet</l>
+               <l>Often Petition, the Babe unborn did cry</l>
+               <l>Pitty my Father, do not let him dye.</l>
+               <l>Thy Miniſtry and life was very dear,</l>
+               <l>Thou dyeſt i'th' Rumps <hi>terrorem,</hi> not in fear.</l>
+               <l>Thanks learned <hi>Hales</hi> that did o'rethrow the Charge,</l>
+               <l>Though that thy time to ſtudy it was not large.</l>
+            </lg>
+            <lg>
+               <l>Thou ſtood condemned by thoſe cruel men,</l>
+               <l>Though not by God, nor thy own conſcience, then</l>
+               <l>Th' High Court thou didſt not fear, nor the long Sword.</l>
+               <l>Scaffold nor Axe, ſupported by Gods Word,</l>
+               <l>Only for writing to brave <hi>Maſſey,</hi> gone</l>
+               <l>To <hi>Scotland,</hi> for to fetch King <hi>Charls</hi> to's home.</l>
+               <l>Some Prieſts were bold and ſtout, yet ſome did turn.</l>
+               <l>Some Preached worſe than <hi>Love,</hi> yet would not burn.</l>
+               <l>God did provide for <hi>Loves</hi> poſterity,</l>
+               <l>Though ſome are ſlackned with timidity.</l>
+            </lg>
+            <lg>
+               <pb n="19" facs="tcp:30536:13"/>
+               <l>
+                  <hi>Noll</hi> comes from <hi>Scotland</hi> with his Red-coats Tyrod;</l>
+               <l>Whom Satan drives, let him not be admired;</l>
+               <l>The King is kept in play, doth not advance,</l>
+               <l>By Scotiſh cheats, but not by ignorance;</l>
+               <l>The Rump now ſcorn the Kings Juſt Rights to yeeld;</l>
+               <l>At fatal <hi>Woster Noll</hi> hee wins the Field,</l>
+               <l>And yet Great <hi>Charls</hi> our King hee hath the Honour</l>
+               <l>That's braver than ſucceſs, God was his Banner;</l>
+               <l>The Kings preſerv'd by Gods moſt ſacred hand,</l>
+               <l>The King of Kings conveyes him out o'th' Land.</l>
+            </lg>
+            <lg>
+               <l>So great a Miracle ſure was never ſeen,</l>
+               <l>Since Chriſt; the Rump they had ſuch envious ſpleen,</l>
+               <l>Malice, and power, ſucceſſes, and what not,</l>
+               <l>Bleſt God thou ſav'dſt the King, though not the <hi>Scot;</hi>
+               </l>
+               <l>My Muſe is here amaz'd, what had hee done,</l>
+               <l>Young Crowned <hi>Charls,</hi> ſuch hazards for to run?</l>
+               <l>But that our God makes him a Saint moſt fit</l>
+               <l>To rule for God, when on our Throne hee's ſet.</l>
+               <l>How ſtrict was their curſt ſearch? the Mercy more,</l>
+               <l>In thy eſcape, Great King thy God adore.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Noll</hi> up to <hi>London</hi> comes, the ſects him praiſe,</l>
+               <l>Such blood can never True Juſt Honour raiſe.</l>
+               <l>
+                  <hi>Septembers</hi> third doth twice give <hi>Noll</hi> the day,</l>
+               <l>And yet <hi>Septembers</hi> third takes <hi>Noll</hi> away,</l>
+               <l>To reckon for Kings blood, Rebellion, Treaſon,</l>
+               <l>Though <hi>Needam</hi>'s Intereſt lye, it's Gods beſt ſeaſon,</l>
+               <l>As yet <hi>Noll</hi> ſerves the Rump, but alſo ſees</l>
+               <l>His time to pay them juſtly all their Fees.</l>
+               <l>God's juſt, when hee in juſtice home doth pay</l>
+               <l>Traitors with Treaſon, Rebels Rebels ſlay.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="tcp:30536:14"/>
+               <l>Such men to proſper both by Sea and Land,</l>
+               <l>In all three Kingdomes ſevere was Gods juſt hand,</l>
+               <l>They do behead brave Earl of <hi>Derby</hi> true,</l>
+               <l>Who died a Chriſtian, though ſome liv'd the Jew,</l>
+               <l>Sir <hi>Tim. Fetherſton Haugh</hi> at <hi>Cheſter</hi> eke</l>
+               <l>Beheaded is, and <hi>Bembo</hi> ſtout and meek</l>
+               <l>At <hi>Shrewsbury;</hi> more of the Royal Train</l>
+               <l>At <hi>Woſter,</hi> and beſides murdered and ſlain,</l>
+               <l>Brought up like Hogs in droves, ſtarv'd, beaten, then</l>
+               <l>Beyond Sea ſent, like ſlaves, and not like men.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Hollander's</hi> twice beaten by the Rump,</l>
+               <l>And eke the <hi>French,</hi> now both no more are Trump.</l>
+               <l>
+                  <hi>Dunkirk</hi> is alſo by the <hi>Spaniard</hi> taken,</l>
+               <l>By the help of th' Rump, though after that forſaken,</l>
+               <l>
+                  <hi>Blake</hi> worſted by the <hi>Dutch,</hi> yet after worſted,</l>
+               <l>Some think that they ſhould not of all be truſted;</l>
+               <l>For in the Levant Seas our <hi>Engliſh</hi> Fleet</l>
+               <l>Deſtroyed by the <hi>Dutch,</hi> for them it was moſt meet,</l>
+               <l>The <hi>Dutch</hi> are Proteſtants, and ſhould bee kinde,</l>
+               <l>But that in this great Art they were purblinde.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Spain</hi> firſt did own the Rump for their own ends,</l>
+               <l>But <hi>Spain</hi> to King and Princes made amends,</l>
+               <l>In <hi>France</hi> Prince <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> Cardinal and King.</l>
+               <l>At wars, the Cardinal owns the Rumpiſh thing,</l>
+               <l>'Gainſt Calling and Religion of <hi>Rome,</hi>
+               </l>
+               <l>What policy is there wee cannot doom?</l>
+               <l>They here make peace, forſake their Princely friends</l>
+               <l>
+                  <hi>Mazarine</hi>'s back Game, yet God hath ſecret ends,</l>
+               <l>To make our <hi>Charls</hi> the Proteſtants Protector,</l>
+               <l>And of <hi>Romes</hi> fallacy the Grand Rejector.</l>
+            </lg>
+            <lg>
+               <pb n="21" facs="tcp:30536:14"/>
+               <l>How many ſeals were broke Treaſon committing?</l>
+               <l>Each one the others knavery out witting;</l>
+               <l>The Rumps Grand breeches were of <hi>Nols</hi> deviſing,</l>
+               <l>By them ſet up hee ſees himſelf upriſing;</l>
+               <l>
+                  <hi>Nol</hi> faſts and prayes whiles they to paſs did bring</l>
+               <l>His black deſigns 'gainſt Goſpel, Law, and King.</l>
+               <l>God hates the Traitor, and the Treaſon too,</l>
+               <l>Conſulted wickedneſs will it ſelf undo.</l>
+               <l>Thoſe Task-maſters exacted Brick and Straw,</l>
+               <l>Pretend Religion, and yet break the Law.</l>
+            </lg>
+            <lg>
+               <l>The Armies Agitators ſtill did mock</l>
+               <l>At three Grand Pees the which they ſaid did lock</l>
+               <l>
+                  <hi>England</hi> in ſlavery, againſt which they cry,</l>
+               <l>Popery, Praelacy, and Presbytery,</l>
+               <l>But three Grand l's have far a worſer ſting,</l>
+               <l>Janniſaries the Great Turk ſtrangling,</l>
+               <l>Jeſuites by Popiſh Figs Kings poyſoning,</l>
+               <l>Independents their own Kings Head off chopping,</l>
+               <l>From ſuch, Good Lord deliver us, wee pray,</l>
+               <l>And <hi>Charls</hi> our Soveraign King both night and day.</l>
+            </lg>
+            <lg>
+               <l>Kings-Arms i'th' Churches made the people pray</l>
+               <l>For <hi>Charles,</hi> whoſe Father they did lately ſtay,</l>
+               <l>I'th' Courts, i'th' Ships, Exchange, his Picture down,</l>
+               <l>His power and ſtate they take and ſell the Crown</l>
+               <l>What hurt's i'th' Armes? but that by them remembring</l>
+               <l>Wee pray'd for Bleſſed <hi>Charls</hi> his Sons returning;</l>
+               <l>Both Root, and Branch, and Name, this Rump out flings,</l>
+               <l>And war's proclaim'd 'gainſt <hi>Charls</hi> the beſt of Kings,</l>
+               <l>The higher that they ſoar, the lower falling,</l>
+               <l>Tyrants at laſt God to account is calling.</l>
+            </lg>
+            <lg>
+               <pb n="22" facs="tcp:30536:15"/>
+               <l>How many for their own baſe Intereſt</l>
+               <l>Did ſerve this Rump for gain, others oppreſt?</l>
+               <l>Some ſuffered, ſtill waiting this bleſſed day,</l>
+               <l>For which all loyal hearts did ſing and pray.</l>
+               <l>Beggars to Lordſhips came, ſerving this Rump,</l>
+               <l>But into Raggs they'l change their Velvet Jump.</l>
+               <l>Set ſuch on horſe-back, proudly will they ride,</l>
+               <l>Till Power, and Law, and States, they all beſtride,</l>
+               <l>But now they ſtink, it's juſt this Rumpiſh State</l>
+               <l>In twelve ſad years ſtould have a Rumpiſh fate.</l>
+            </lg>
+            <lg>
+               <l>Thoſe lewd pretences that the Rump did bring,</l>
+               <l>The people cry, they ſaid, go kill your King,</l>
+               <l>All's done by Providence, they ſtill did ſay,</l>
+               <l>Are now prov'd lyes; God ſave the King wee pray,</l>
+               <l>Wee bleſs Juſt Providence, that in wiſdome Ruling</l>
+               <l>To th'beſt of bleſſings chang'd theſe Changlings doing.</l>
+               <l>Let's ever bleſs our Gracious God moſt wiſe,</l>
+               <l>That hath brought home the juſt light of our eyes.</l>
+               <l>God's juſt in all, Traitors by Treaſon judging,</l>
+               <l>The Rumpiſh Army 'gainſt the Rump ſtill grudging.</l>
+            </lg>
+            <lg>
+               <l>Of ſuch baſe Compounds were this Rumpiſh Power,</l>
+               <l>Which made themſelves themſelves for to devour;</l>
+               <l>Nothing contents that Army proud, ſucceſs</l>
+               <l>Did make them bold, they ſcorn'd for to addreſs,</l>
+               <l>They never thought of change, dream'd here to dwell,</l>
+               <l>Sure made a Covenant with Death and Hell.</l>
+               <l>Widdows and Fatherleſs pray'd, that they might ſing,</l>
+               <l>A Welcome-home to <hi>Charls,</hi> our Lord, the King.</l>
+               <l>Such were the keepers of our Liberties,</l>
+               <l>Knaves ſtill inviſible grounds of miſeries.</l>
+            </lg>
+            <lg>
+               <pb n="23" facs="tcp:30536:15"/>
+               <l>
+                  <hi>Sans</hi> mercy and 'gainſt Law they Tried our King,</l>
+               <l>His Queen they baniſht, and that Princely thing,</l>
+               <l>And all the reſt by Treaſon ſtill kept from us,</l>
+               <l>'Gainſt Oaths and Covenant, and Great <hi>Nolls</hi> Grand Promiſe;</l>
+               <l>The Army ſtill did change all Government,</l>
+               <l>Their ſouls did ſtill to Judgement them preſent,</l>
+               <l>But <hi>Noll</hi> hee cheats them all, chief Rule intending,</l>
+               <l>And ſtill Religion, Law, in his pretending;</l>
+               <l>Traitors turn'd out, God's juſt, his Judgements rare,</l>
+               <l>Of the next Change, my Muſe will now declare.</l>
+            </lg>
+            <lg>
+               <l>Firſt <hi>Noll</hi> that jugling Saint them out did fling</l>
+               <l>A brave Grand Rebel, an Hypocrite mocking,</l>
+               <l>Souldier enough ſucceſsful, bold and daring,</l>
+               <l>A politick Noſe, ambitious, no man fearing,</l>
+               <l>
+                  <hi>Sans</hi> Legal Writs hee pricks a Parliament,</l>
+               <l>Call'd <hi>Bare-bones Juncto,</hi> theſe muſt repreſent</l>
+               <l>The people, who never did them call,</l>
+               <l>Or Power give, by theſe <hi>Noll</hi> ſeeks for all;</l>
+               <l>They vote themſelves a Parlament, becauſe</l>
+               <l>Under that title they might break the Laws.</l>
+            </lg>
+            <lg>
+               <l>Sects bad enough, Compounds of all together,</l>
+               <l>Spoil Marriage-Rites, ſome went they knew not whither</l>
+               <l>The Marriage-knot to tye, yet theſe not fitting</l>
+               <l>
+                  <hi>Nolls</hi> ſecret ends, hee takes them off from ſitting.</l>
+               <l>
+                  <hi>Noll</hi> and his Cubs do cry, they're falſe, pretending</l>
+               <l>That they, when hee, our property was rending,</l>
+               <l>Then lifts up hands and eyes, and by lay preaching,</l>
+               <l>And falſer prayers, his Saints and Souldiers cheating.</l>
+               <l>But ſomething elſe did in the bottome lye,</l>
+               <l>That <hi>Juncto</hi>'s wiſdome could not this deſcry.</l>
+            </lg>
+            <lg>
+               <pb n="24" facs="tcp:30536:16"/>
+               <l>A ſingle perſon, ſomething like a King,</l>
+               <l>
+                  <hi>Nolls</hi> craft, and crew, and power, to paſs did bring,</l>
+               <l>Protector, or Projector rather, levelling</l>
+               <l>All to his luſts, a while ſits proudly revelling</l>
+               <l>The Feather in his Cap, the Title King</l>
+               <l>Hee calls, and yet the Power ſtill uſurping;</l>
+               <l>Five years hee rul'd, not reign'd, himſelf protecting</l>
+               <l>By Power and Sword, all luſt men elſe rejecting;</l>
+               <l>In his own craft God ſtill was him defeating,</l>
+               <l>Hee would and would not, ſo hee liv'd by cheating.</l>
+            </lg>
+            <lg>
+               <l>Calls three Mock-Parlaments, breaks up the thing</l>
+               <l>Of his own m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king, cauſe hee would bee King;</l>
+               <l>A pack of knaves were ſome, ſome could not give</l>
+               <l>Up our Grand Laws, whiles <hi>Charls</hi> his Son did live.</l>
+               <l>
+                  <hi>Nolls</hi> fit to rule, but no juſt Title having,</l>
+               <l>Makes him unjuſt, and made him alwaies craving</l>
+               <l>Of all Religions that made for his ſupporting,</l>
+               <l>Made all opinions ſtirrup his uſurping;</l>
+               <l>A Coach-box favour God him once was giving,</l>
+               <l>On <hi>Michaelmas</hi> day, to change his wicked living.</l>
+            </lg>
+            <lg>
+               <l>State Secretary in the Coach doth ſit,</l>
+               <l>Protector in the Coach box, where's his wit?</l>
+               <l>Sometimes ſuch frollicks mad into his brain</l>
+               <l>Were whymſied by his ſpirit, or his Train;</l>
+               <l>But this one Act was like their Actions all,</l>
+               <l>One draws another, now <hi>Noll</hi> gets the fall,</l>
+               <l>Yet God had mercy, though that <hi>Noll</hi> had none,</l>
+               <l>
+                  <hi>Noll</hi> had ſome virtues, mercy hee lackt alone;</l>
+               <l>One of his three Mock-Parlaments was ſitting</l>
+               <l>When as their Head at the horſe heels was flitting.</l>
+            </lg>
+            <lg>
+               <pb n="25" facs="tcp:30536:16"/>
+               <l>Some part o'th' Army <hi>Nol</hi> abroad doth ſend,</l>
+               <l>For Gold, to <hi>Hiſpaniola,</hi> keeps to mend</l>
+               <l>The reſt, worms <hi>Lambert</hi> out, and others trembling</l>
+               <l>Obey, yet moſt do hate his baſe diſſembling.</l>
+               <l>His Major Generals, Semi-dragons ſting</l>
+               <l>The Land, <hi>Nols</hi> Baſhaws then deſerv'd the ſtring.</l>
+               <l>For moneys ſake the <hi>Jews</hi> he in would bring,</l>
+               <l>Cauſe they fore him had murder'd Chriſt their King.</l>
+               <l>He then pleads for the <hi>Jews</hi> the Scripture Text</l>
+               <l>For their Converſion, though with his own he's vext.</l>
+            </lg>
+            <lg>
+               <l>He doth Divines call up from ſeverall places,</l>
+               <l>To colour that deſign, his Chaplains faces</l>
+               <l>Are not ſo braz'd as his, he turns the <hi>Jew,</hi>
+               </l>
+               <l>He gets the Gold, and then forſakes that crew.</l>
+               <l>Still mony lacks, for that his conſcience bends</l>
+               <l>His power and ſword, and valor thereto tends,</l>
+               <l>It muſt be had, if that the Gods deny,</l>
+               <l>The <hi>Acheron</hi> hee'l force, and Devils try,</l>
+               <l>Makes Churches ſtables, a Sacrilegious thing,</l>
+               <l>This was the Reformation <hi>Nol</hi> did bring.</l>
+            </lg>
+            <lg>
+               <l>Brave man, where doth thy ſpirit ſadly rumble?</l>
+               <l>How in this world did thy aſpirings tumble</l>
+               <l>Things upſide down? Valour with Counſel ſwayd</l>
+               <l>Is good, grand <hi>Nol</hi> makes all the world afraid.</l>
+               <l>How many ſeem to bleſs when as they curſe?</l>
+               <l>
+                  <hi>Nol</hi> cares not, ſo that hee have power and purſe.</l>
+               <l>How did his Parlaments and himſelf agree?</l>
+               <l>How did his ſeveral ſpeeches made to three</l>
+               <l>Concur? and with his Recognition more,</l>
+               <l>Prayes, and proteſts, and ſwears, makes up the ſcore.</l>
+            </lg>
+            <lg>
+               <pb n="26" facs="tcp:30536:17"/>
+               <l>Hee proſpers every where, by Sea and Land,</l>
+               <l>Makes <hi>Holland</hi>'s <hi>Trump</hi> to gravel in the Sand,</l>
+               <l>Although at St. <hi>Domingo</hi> there's a loſſe,</l>
+               <l>Yet at <hi>Jamaica</hi> doth the <hi>Spaniard</hi> croſſe,</l>
+               <l>Succeſs at home, and eke ſucceſs abroad,</l>
+               <l>Makes his Aſpirings not to fear the Rod,</l>
+               <l>At <hi>Sancta Cruze</hi> the <hi>Spaniſh</hi> Fleet's attempted</l>
+               <l>Silver's brought home, at <hi>Eriff</hi> they're borned.</l>
+               <l>What ſhall wee ſay? count not Succeſs a God,</l>
+               <l>It is ſome times Gods juſt and heavy Rod</l>
+            </lg>
+            <lg>
+               <l>Some Levellers before were of <hi>Nols</hi> breeding,</l>
+               <l>
+                  <hi>Burford Breakfaſt, Nol</hi> Doctors them with bleeding;</l>
+               <l>Stout <hi>Lilbourn John</hi> oppoſed all, and ſtands</l>
+               <l>For Law, and pleads 'gainſt all theſe mens commands,</l>
+               <l>Hee ſuffers much, ſtill diſcontented that</l>
+               <l>Hee's not ſet up, and doth hee cares not what;</l>
+               <l>
+                  <hi>Lilbourn</hi> lyes here, whom many thought was mad,</l>
+               <l>Hee dyed a Quaker, buried at <hi>Bedlam</hi> ſad,</l>
+               <l>This Mock-King <hi>Noll</hi> of new found Lords a Houſe</l>
+               <l>Sets up, ſome ſcarce fore this, not worth a Louſe.</l>
+            </lg>
+            <lg>
+               <l>The Royal Miniſters <hi>Noll</hi> out did fling</l>
+               <l>From Means and Office, both prohibiting</l>
+               <l>From teaching School, and eke from Chaplains being,</l>
+               <l>So buries them alive, theſe acts God ſeeing</l>
+               <l>Some <hi>Obadiah</hi>'s in a Cave them feed,</l>
+               <l>Preſerv'd from <hi>Ahab</hi> though the Church did bleed.</l>
+               <l>Who for the Churches good no ſeed is ſowing,</l>
+               <l>The Churches God takes him away with blowing</l>
+               <l>Thus Civil Prelates ſilence Prieſts; a thing</l>
+               <l>Prodigious, ſtrange, an Antichriſtian ſtring.</l>
+            </lg>
+            <lg>
+               <pb n="27" facs="tcp:30536:17"/>
+               <l>With Kings and ſtates, abroad by force or cunning</l>
+               <l>
+                  <hi>Noll</hi> makes his peace moſt men by Craft out runing,</l>
+               <l>In moſt Agreements <hi>Noll</hi> was ſtill diſgracing</l>
+               <l>Our Royal Princes, Traitors ſtill are placing</l>
+               <l>Themſelves in others Rights, hee domineers</l>
+               <l>And Trophies of our ſlavery up rears,</l>
+               <l>Without Divinity, Divines up ſetting,</l>
+               <l>That worſhipped his Calves, and prais'd his getting,</l>
+               <l>Abroad a Devil, moſt men ſo him thinking,</l>
+               <l>At home worſe then a <hi>Machavil</hi> hee's ſtinking.</l>
+            </lg>
+            <lg>
+               <l>Into a black baſe Inſtrument <hi>Noll</hi> Changes</l>
+               <l>Our Lawes, and over Kingdomes three <hi>Noll</hi> Ranges,</l>
+               <l>Upon Intelligence abroad, much ſpends,</l>
+               <l>At home hee Rackt us almoſt to our ends;</l>
+               <l>A Saint in ſhow, grand Holineſs pretending</l>
+               <l>Great outward parts and Gifts, but never mending,</l>
+               <l>By which hee coſens good men, by power and threats</l>
+               <l>Inſlaves the reſt, and both ſides ſweetly cheates,</l>
+               <l>Never did <hi>Machavil</hi> bring to paſſe ſuch things,</l>
+               <l>By ſeeming Holineſs gainſt the beſt of Kings.</l>
+            </lg>
+            <lg>
+               <l>The Brewer makes the Dray-man Knight, a thing</l>
+               <l>Prodigious, proud, low men made Lords to ſtring</l>
+               <l>
+                  <hi>Noll</hi> to the Crown, here's ſeen a fiery noſ'd King</l>
+               <l>And fat a Queen, the Levellers did ſing.</l>
+               <l>Hangs a great Room, as badges of his Ruling,</l>
+               <l>That ſtrangers they might ſee his hold &amp; footing;</l>
+               <l>What Juſtice, Goodneſs, or what religious thing</l>
+               <l>Could wee expect, from him that kill'd his King?</l>
+               <l>But God doth Juſtice, and his power ſhewes,</l>
+               <l>How hee in time diſſemblers overthrowes.</l>
+            </lg>
+            <lg>
+               <pb n="28" facs="tcp:30536:18"/>
+               <l>Once Sworn, Proclaim'd, again ſworn at's Inſtalling,</l>
+               <l>Baſe <hi>Herods</hi> Conſcience alwayes fears a falling.</l>
+               <l>Plots and makes Treaſon, and thereby others killing,</l>
+               <l>
+                  <hi>Nol</hi> and his Officers their Coffers filling,</l>
+               <l>A damned Toleration hee admitting,</l>
+               <l>Thinks that the way to make him faſter fitting.</l>
+               <l>After bleſt <hi>Hewets</hi> death, <hi>Nol</hi> no way thriving,</l>
+               <l>
+                  <hi>Septembers</hi> third the wind away him driving.</l>
+               <l>Good people cry'd God's juſt, this diſmal thing,</l>
+               <l>And ſtormy wind, makes way for <hi>Charls</hi> our King.</l>
+            </lg>
+            <lg>
+               <l>I cannot paſſe bleſt <hi>Hewits</hi> martyrdome,</l>
+               <l>Without ſome ſervice offerd at his Tomb.</l>
+               <l>
+                  <hi>O he within!</hi> Anagram moſt clear,</l>
+               <l>For this our bleſſed, holy Martyr dear:</l>
+               <l>Without is ſorrow, for without is ſin,</l>
+               <l>He's above both, for <hi>O he is within!</hi>
+               </l>
+               <l>The O is ours, but the <hi>within</hi> is his,</l>
+               <l>The loſſe is ours, but his within is bliſſe.</l>
+               <l>While we are out forgive us Lord our ſin,</l>
+               <l>With Saints and Martyrs, that wee may get in.</l>
+            </lg>
+            <lg>
+               <l>Within the Temple of eternal reſt,</l>
+               <l>Within with Chriſt, Kings, Prieſts, and with the beſt</l>
+               <l>Of Prophets too, of Martyrs, Saints, and thoſe</l>
+               <l>With whom the world's not worthy for to cloſe.</l>
+               <l>Within the higheſt Court of Righteouſneſſe,</l>
+               <l>Where Chriſt hath cloath'd him with his faithfulneſſe.</l>
+               <l>Where he ſhall never dye again, becauſe.</l>
+               <l>He pleaded not at <hi>Summum Jus</hi> his laws.</l>
+               <l>It was his honour that he thus ſhould dye,</l>
+               <l>His Maſter-like, by Judge and Jury high.</l>
+            </lg>
+            <lg>
+               <pb n="29" facs="tcp:30536:18"/>
+               <l>He mounts the Scaffold, claſpes the block, and ſmiles</l>
+               <l>At the keen Axe, 'cauſe free from Satans wiles,</l>
+               <l>His conſcience clear, his face moſt bright did ſhine,</l>
+               <l>Fitted for Angels was this bleſt Divine.</l>
+               <l>A Doctor here, for Learning, Grace, and Love,</l>
+               <l>A Martyr there receiv'd in Heaven above.</l>
+               <l>Preaching, and praying, his laſt acts of Grace</l>
+               <l>Are chang'd to praiſing 'fore Gods bleſſed face.</l>
+               <l>Since Chriſt till <hi>Charls,</hi> ſuch juſtice hath not bin</l>
+               <l>King, Prieſts, and Saints, thus murtherd ne'r was ſeen.</l>
+            </lg>
+            <lg>
+               <l>Thanks baſe <hi>O. P. H. C. B.</hi> Hangman, Axe,</l>
+               <l>Although i'th' Church you make a Parallax.</l>
+               <l>Our ſtars of higheſt magnitude are gone,</l>
+               <l>And ſtill you daringly keep out the Son.</l>
+               <l>God of his Grace hath chang'd his Scene to joy,</l>
+               <l>Above the Court, th' Atturney, and the annoy</l>
+               <l>Of lawleſſe, high injuſtice, ſpectators all</l>
+               <l>Might ſee his glory when you made him fall.</l>
+               <l>Let us repent, for why within he is,</l>
+               <l>There let him reſt ſafe in eternal bliſſe.</l>
+            </lg>
+            <lg>
+               <l>His deareſt Lady, and his children dear</l>
+               <l>Have loſt a Husband, and Father here;</l>
+               <l>His Church their Paſtor, humble, meek, and holy,</l>
+               <l>Who dyed for Truth, and not for Treaſons folly.</l>
+               <l>But ſee how God injuſtice doth repay,</l>
+               <l>
+                  <hi>Nol</hi> ne'r had reſt from that great Martyrs day.</l>
+               <l>He now rejoyces ſafe within in glory,</l>
+               <l>Let after Ages ſtill record his ſtory.</l>
+               <l>So let him reſt, till God reveal, of men,</l>
+               <l>Counſels &amp; hearts, both how they die, &amp; when.</l>
+            </lg>
+            <lg>
+               <pb n="30" facs="tcp:30536:19"/>
+               <l>For that pretended Treaſon more do dye,</l>
+               <l>To make up <hi>Nols</hi> account of cruelty.</l>
+               <l>
+                  <hi>Cheap-ſide, Tower-Hill,</hi> and the <hi>Exchange,</hi> do ſhow</l>
+               <l>That <hi>Nol</hi> he had no mercy here below.</l>
+               <l>Drawn Hang'd and Quarter'd, is the Engliſh Law</l>
+               <l>For Traitors, God will theſe men by Juſtice draw,</l>
+               <l>For why, he's Juſt, to dire account will bring</l>
+               <l>For blood of Nobles, Prieſts, and of their King.</l>
+               <l>Repentance may prevent the curſe of Hell,</l>
+               <l>If God have mercy on their ſouls, it's well.</l>
+            </lg>
+            <lg>
+               <l>My Muſe ne'r heard of <hi>Olivers</hi> repenting,</l>
+               <l>Nor any of thoſe Rump ſuters relenting.</l>
+               <l>Kings blood, and Princes, Nobles and Prieſts blood crying</l>
+               <l>Might raiſe thoſe winds that ſtorm'd it at his dying.</l>
+               <l>The Proteſtants abroad <hi>Nol</hi> ſtill was couzening,</l>
+               <l>With Proteſtants at home <hi>Nol</hi> ſtill was jugling.</l>
+               <l>We faſt and pray for poor <hi>Waldenſes</hi> ſuffering,</l>
+               <l>Who cheats thoſe Saints of <hi>Englands</hi> pious offering?</l>
+               <l>
+                  <hi>Nol</hi> and his crew, which made us daily ſing,</l>
+               <l>God ſend us home juſt <hi>Charls</hi> our gracious King.</l>
+            </lg>
+            <lg>
+               <l>Whilſt <hi>Nol</hi> Protector thus did lye a dying,</l>
+               <l>Non-luſtrious <hi>Joan</hi> doth mourn &amp; keeps a crying</l>
+               <l>How ſhall I rule this grand unruly thing?</l>
+               <l>My Lord is dead, they did betray the King</l>
+               <l>Not ſo, good Dame, <hi>Nol's</hi> Sects and Army did,</l>
+               <l>That which both Gods and mans Laws did forbid.</l>
+               <l>A ſad Cataſtrophe, the people ſcorning,</l>
+               <l>From throne to kitchin, who payes for all the mourning?</l>
+               <l>
+                  <hi>White-hall</hi> had many Maſters, yet not the right,</l>
+               <l>At laſt God turns black Traytors in ſad plight.</l>
+            </lg>
+            <lg>
+               <pb n="31" facs="tcp:30536:19"/>
+               <l>
+                  <hi>Nol</hi> thought all ſure, but ſee the Serpents lurking,</l>
+               <l>Where fraud and power keeps Tyrants up uſurping.</l>
+               <l>For good Queen <hi>Dick,</hi> that honeſt uſeleſſe thing,</l>
+               <l>By <hi>Nols</hi> kin and his crew, (juſt is the King</l>
+               <l>Of Kings, alive is buryed) though Grace is pardoning,</l>
+               <l>Muſhromes, repent, and keep your hearts from hardning.</l>
+               <l>Leſt ſtormy winds roaring, and trees up blowing,</l>
+               <l>Do ſend you where the <hi>Styx</hi> is ever flowing.</l>
+               <l>God gives us juſt examples to take heed</l>
+               <l>Of treaſon, traytors ſhall have traytors meed.</l>
+            </lg>
+            <lg>
+               <l>The people weary of <hi>Nols</hi> grand oppreſſing,</l>
+               <l>To <hi>Dick</hi> proclaim'd, do make their low addreſſing,</l>
+               <l>Some flatter, ſome deſign, ſome hope th'amending</l>
+               <l>Of burdens great, before their fatall ending.</l>
+               <l>But <hi>Dick</hi>'s turn'd out, and <hi>Hal</hi> from <hi>Ireland</hi> comming,</l>
+               <l>Both want their Fathers valour, and his cunning.</l>
+               <l>
+                  <hi>Dicks</hi> honeſt Parlament good things were doing,</l>
+               <l>The title's naught, the Army's them out-throwing,</l>
+               <l>Thus Agitators, armed Prieſts, do bring</l>
+               <l>Confuſion, for of all they were the ſpring.</l>
+            </lg>
+            <lg>
+               <l>Thoſe Agitators were of <hi>Nols</hi> deviſing,</l>
+               <l>Backt all his projects, ſtill themſelves up riſing.</l>
+               <l>Grand-Satans Jeſuits by their Popes falſe dealing,</l>
+               <l>Brew'd all our miſeries, kept us ſtill from healing.</l>
+               <l>Gainſt true Religion, and ſettlement ſtill burning:</l>
+               <l>Content with none, all Governments out-turning.</l>
+               <l>Theſe riſe 'gainſt <hi>Dick,</hi> and all their wayes reproving,</l>
+               <l>Gainſt God, and King, and Laws, the Army moving.</l>
+               <l>Confuſion brings confuſion, God is juſt,</l>
+               <l>The wickeds honour ſin layes in the duſt.</l>
+            </lg>
+            <lg>
+               <pb n="32" facs="tcp:30536:20"/>
+               <l>The Rump before their time again now riſing,</l>
+               <l>Though ſix years buryed, ſtink, yet ſtill deviſing</l>
+               <l>New Treaſons, troubles, by the Army call'd in,</l>
+               <l>The Army caſt them out before, great is their ſin.</l>
+               <l>They now reſolve, the Nation once more muzling,</l>
+               <l>But yet brave <hi>Cheſhire</hi> threats their cruel nuzling,</l>
+               <l>
+                  <hi>Brown, Booth,</hi> &amp; <hi>Middletons Welſh-men</hi> cry the King</l>
+               <l>Something too late, <hi>Lambert</hi> them all is conquering.</l>
+               <l>Though ſome men faild, yet thouſands good men pray,</l>
+               <l>And gladly wiſht St. <hi>George</hi> an happy day.</l>
+            </lg>
+            <lg>
+               <l>Now new Sequeſtring, ſome that 'fore did ſtand</l>
+               <l>For the long Parlament, juſt is Gods bleſſed hand.</l>
+               <l>Brave, ſtout, and valiant <hi>Maſſey</hi> ſcapes the <hi>Tower,</hi>
+               </l>
+               <l>Comes in again, and ſcorns this Rumpiſh power,</l>
+               <l>And is preſerv'd by God, that he might bring</l>
+               <l>Our bleſſed <hi>Charls,</hi> our Soveraign Lord the King.</l>
+               <l>Gods time is beſt, he's faithful to his truſt.</l>
+               <l>Though for his ſake bleſt <hi>Love</hi> is laid i'th' duſt,</l>
+               <l>Kings Rights are ſtill preſerved by our God,</l>
+               <l>God ſanctify that twelve years heavy Rod.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lambert</hi> receives his token from the Rump,</l>
+               <l>And's Captains Orderd thanks, now he is Trump,</l>
+               <l>But little blood was ſhed, then new Committees.</l>
+               <l>
+                  <hi>Cheſter</hi>'s diſ-franchiz'd, ſpoyl'd amongſt the Cities.</l>
+               <l>Both Miniſters and others are ſuſpected,</l>
+               <l>Impriſon'd, and Eſtates are new ſequeſtred,</l>
+               <l>But they that call'd them in, do turn their faces,</l>
+               <l>And now reſolve to occupy their places.</l>
+               <l>
+                  <hi>Lambert</hi> his time comes to return in play,</l>
+               <l>God ſhortens this, for his true Saints did pray.</l>
+            </lg>
+            <lg>
+               <pb n="33" facs="tcp:30536:20"/>
+               <l>The Rumpiſh rage and fury nine out turn,</l>
+               <l>
+                  <hi>Lambert</hi> and's Captains vow the Rump to burn,</l>
+               <l>They armed come to th' Houſe, to ſtop their meeting,</l>
+               <l>Like to their ſouldiers, Rumpiſh ſouldiers greeting.</l>
+               <l>
+                  <hi>Lental</hi> of ſeveral Parlaments was the Speaker,</l>
+               <l>Of all our Laws and Statutes the great breaker;</l>
+               <l>Hee's once again ſent back, for to conſider,</l>
+               <l>Or elſe to count his money, judge you whether.</l>
+               <l>The Army ſet them up, and pulls them down,</l>
+               <l>And help them to deſtroy the Royal Crown.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Lambert</hi> and <hi>Fleetwood,</hi> and the Officers praying,</l>
+               <l>Both faſt and feaſt, and ſtill intend betraying;</l>
+               <l>Now all conſult, and in amaze, and cry,</l>
+               <l>What Counſel's beſt? reſolve to live or dye.</l>
+               <l>The Head is gone, and eke the politick Noſe,</l>
+               <l>Six things like Parlaments wee ſtab'd, and roſe</l>
+               <l>Againſt the preſent power; what, ſhall wee have</l>
+               <l>A ſingle perſon, who ſhall bee the knave?</l>
+               <l>Coxcombs of ſafety let us ſettle now,</l>
+               <l>Heark, rouze your ſpirits, the Northern winds do blow.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>London</hi> faſts and praies, in one proſtrating</l>
+               <l>Their humbled ſouls, and bold by now declaring</l>
+               <l>For a Free Parlament, out-vy the cheating</l>
+               <l>Of <hi>Wallingford</hi>-houſe-ſaints, though <hi>Vanes</hi> repeating</l>
+               <l>This new Committee of ſlavery, down would have</l>
+               <l>Our Colledges and Churches, ſo inſlave</l>
+               <l>Us worſe, the bottome of the headleſs Rump</l>
+               <l>Worſe than the reſt, onely fit for the ſtump.</l>
+               <l>Againſt theſe Saints, whoever dare to claſh</l>
+               <l>In his hearts blood, their hands they ſwear to waſh.</l>
+            </lg>
+            <lg>
+               <pb n="34" facs="tcp:30536:21"/>
+               <l>Proclaim for peace, and yet more blood deviſing,</l>
+               <l>All ſtill reſolve 'gainſt <hi>Charls</hi> a conſtant riſing;</l>
+               <l>The grand blind Cobler guilty of former blood,</l>
+               <l>Begins new broyles i'th' City, amaz'd wee ſtood;</l>
+               <l>Brave Prentiſes petition'd 'gainſt this might,</l>
+               <l>Stand up for King, for Laws, for Cities Right,</l>
+               <l>Some pinion'd are, others are ſadly ſlain,</l>
+               <l>Cobler kills Cobler, this blood ſure cryes amain;</l>
+               <l>Brave Common Council ſtand for Cities cauſe,</l>
+               <l>Coblers indited for murdering the Laws.</l>
+            </lg>
+            <lg>
+               <l>Patience abuſ'd, returns to rage and fury,</l>
+               <l>God will bee Judge, whoever is the Jury.</l>
+               <l>How did bleſt <hi>Londons</hi> God preſerve us then</l>
+               <l>From mutinies, confuſion, even when</l>
+               <l>The knife was at the throat? our hands did itch</l>
+               <l>To give blind halting Cobler one true ſtitch.</l>
+               <l>Now more Committees, and more Sequeſtrators,</l>
+               <l>And more curſt raking who ſhould be our Stators.</l>
+               <l>Thus one deſtroies another, as unjuſt,</l>
+               <l>A guilty conſcience will not a brother truſt.</l>
+            </lg>
+            <lg>
+               <l>God uſes Inſtruments of his own appointing,</l>
+               <l>And makes his way for Bleſſed <hi>Charls</hi> Anointing.</l>
+               <l>Wee Proteſtants are, and Popiſh Monks wee hate,</l>
+               <l>Yet one brave <hi>Monk</hi> preſerves both King and State;</l>
+               <l>Forgive him all the reſt, for this is more</l>
+               <l>Than all the Monks could ever do before;</l>
+               <l>Great <hi>George</hi> the beſt of <hi>Monks</hi> ſees all their raking</l>
+               <l>Of Church and State, reſolves to ſtop their taking.</l>
+               <l>God ſaid <hi>Amen,</hi> bids <hi>George</hi> march on and bring</l>
+               <l>Juſtice, Peace, Truth and Mercy, with our King.</l>
+            </lg>
+            <lg>
+               <pb n="35" facs="tcp:30536:21"/>
+               <l>The Game was hard, the ſtakes were great, the ſting</l>
+               <l>Of ſafety vows <hi>Monk</hi> on his back to fling.</l>
+               <l>This Northern blaſt out-blows the Faſts and Prayers</l>
+               <l>Of <hi>Fleetwood</hi>'s, <hi>Lambertonians</hi> Kings betrayers;</l>
+               <l>They now reſolve, <hi>Lamberts</hi> fluſht Army ſing</l>
+               <l>Before their time <hi>Victoria,</hi> conquering;</l>
+               <l>In their proud luſt and Arm of fleſh boaſting</l>
+               <l>All's their, and then into the North they're poſting;</l>
+               <l>But hee that ſits in Heaven laughs to ſee</l>
+               <l>Their pride, Now ſtops their twelve years tyranny.</l>
+            </lg>
+            <lg>
+               <l>Fifty brave Troops of Horſe, and deſperate Foot,</l>
+               <l>Experienc'd valour, and brave General too't;</l>
+               <l>And all our Sects in's March they bravely cry</l>
+               <l>Triumph unto your Lordſhip Victory;</l>
+               <l>Rakers, Quakers, Shakers, all come in,</l>
+               <l>And help to fill the meaſure of their ſin,</l>
+               <l>From Monks, Prieſts, Fryers, <hi>Scotch</hi> Presbyters they cry</l>
+               <l>Deliverance is ſure, wee'l fight or dye.</l>
+               <l>This man of no Religion, like <hi>Noll,</hi> hath all,</l>
+               <l>That do pretend, this haſtens much his fall.</l>
+            </lg>
+            <lg>
+               <l>Poor <hi>Monk</hi> hath Horſe more fitter for to run</l>
+               <l>Than fight, ſay they, wee will the <hi>Scots</hi> orecome;</l>
+               <l>Hang Tything Prieſts, wee'l pray our ſelves, and preach,</l>
+               <l>Thy brandiſht ſword, Lord <hi>Lambert,</hi> that us teach,</l>
+               <l>Wee'l Colledge Lands, and Churches take, Prieſts all,</l>
+               <l>Inſtead of Tythes, to us for bread ſhall call;</l>
+               <l>Wee'l make the City bow, and take their Treaſure,</l>
+               <l>Their Wives and Widdows, Orphans at our pleaſure.</l>
+               <l>This <hi>Monk</hi> had fought at Land, conquered at Sea,</l>
+               <l>Leads a new dance, and thus begins the plea.</l>
+            </lg>
+            <lg>
+               <pb n="36" facs="tcp:30536:22"/>
+               <l>Soft fire makes ſweet Malt, ſaith <hi>George,</hi> ſtill having</l>
+               <l>God on his ſide, and his protection craving.</l>
+               <l>Shall now the Common-wealth be bafled thus?</l>
+               <l>Muſt every knave ſit Majeſty in Pus?</l>
+               <l>Will nothing them content, King nor Protector,</l>
+               <l>Nor Parlament, Committees nor Projector?</l>
+               <l>Committee of Dangers muſt they now us rule,</l>
+               <l>Theſe Gallimaufrees worſe than Rumpiſh ſtool.</l>
+               <l>
+                  <hi>Monk</hi> ſends Commiſſioners to that ſhort Committee,</l>
+               <l>Letters and Meſſengers to brave <hi>London</hi> City.</l>
+            </lg>
+            <lg>
+               <l>Brave <hi>Scots</hi> aſſiſt and lend him money too,</l>
+               <l>What then was in the dark is open now.</l>
+               <l>My muſe amaz'd, doth hear the Kirk are praying</l>
+               <l>For <hi>Monk,</hi> the Sects for <hi>Lambert</hi> now are ſaying</l>
+               <l>Their Mattens, the Rumpiſh Wealthſmen they are calling.</l>
+               <l>On God, to keep their power now from falling.</l>
+               <l>The Presbyterians they the Lord are ſeeking</l>
+               <l>The King abroad, our God humbly beſeeching.</l>
+               <l>The King and Kirk their prayers Heaven hearing,</l>
+               <l>
+                  <hi>Monk</hi>'s bleſt, and now begins our hopes and chearing.</l>
+            </lg>
+            <lg>
+               <l>God hears at laſt, and his own time is beſt,</l>
+               <l>They're Gods own Inſtruments that bring us reſt;</l>
+               <l>The <hi>Monk</hi> keeps on his hood, and by fair treating</l>
+               <l>Preventeth blood, though they intended cheating.</l>
+               <l>At <hi>Portſmouth</hi> now the Rump doth riſe, a thing</l>
+               <l>Stupendious, great, but ſure no more Riſing,</l>
+               <l>Except to Judgement, <hi>George</hi> marches on, he's wiſe,</l>
+               <l>Revives three Kingdomes hopes, and doth deviſe</l>
+               <l>Our good; our God from Heaven now protecting</l>
+               <l>
+                  <hi>Zerubbabel,</hi> and all his waies directing.</l>
+            </lg>
+            <lg>
+               <pb n="37" facs="tcp:30536:22"/>
+               <l>'Twixt hopes and fears wee cry'd this <hi>Monk</hi>'s a bleſſing</l>
+               <l>To bring Grand <hi>Charls,</hi> and free us from oppreſſing;</l>
+               <l>Deſtroy this Rump, they cry'd, this monſtrous thing,</l>
+               <l>As <hi>George</hi> did once the Dragon and the ſting;</l>
+               <l>Hee ſav'd one Virgin once, but thou art ſaving</l>
+               <l>Three Kingdomes <hi>George;</hi> now this brave <hi>Monk</hi> ſtill having</l>
+               <l>God on his ſide, <hi>Charls</hi> in his heart, hee's Trump,</l>
+               <l>By time and wiſdomes patience ſtarves the Rump;</l>
+               <l>Hee marches on, to <hi>London</hi>'s City comming,</l>
+               <l>Joyns <hi>Scottiſh</hi> Bag-pipes with the <hi>Engliſh</hi> drumming.</l>
+            </lg>
+            <lg>
+               <l>Welcome to th' City <hi>George,</hi> the power being,</l>
+               <l>Whilſt in Commiſſion, <hi>Monk</hi> is ſtill obeying;</l>
+               <l>To th' Houſe hee goes, and begs the Houſe up filling,</l>
+               <l>Proteſting that all Countries ſo were willing;</l>
+               <l>The Rump forſworn, had forc'd an oath, abjuring</l>
+               <l>The Royal Race, no oaths them fore-conjuring,</l>
+               <l>Grow proud and high, guilt, fear, and ſad deſpairing,</l>
+               <l>Doubts and black Jealouſies do make them dating;</l>
+               <l>They vow the Cits ſhall pay for their declaring,</l>
+               <l>The Gates ſhall down by <hi>George,</hi> the walls defacing.</l>
+            </lg>
+            <lg>
+               <l>The Gates pull'd down, the City cryes, amazing</l>
+               <l>What <hi>Monk</hi> is this, the people all are gazing;</l>
+               <l>What ayls thee <hi>George?</hi> the Popiſh Monks did never</l>
+               <l>Pull down our City Gates, and thus diſſever</l>
+               <l>Great <hi>London;</hi> but ſure wee muſt a little ſmart,</l>
+               <l>
+                  <hi>London</hi> in all theſe times hath had a part;</l>
+               <l>Our ſins were great, but bleſſed bee our God,</l>
+               <l>That in this hurly burly ſtopped blood,</l>
+               <l>If this bee all, great <hi>London</hi> ſtir no more,</l>
+               <l>Honour thy King, thy God fear and adore.</l>
+            </lg>
+            <lg>
+               <pb n="38" facs="tcp:30536:23"/>
+               <l>Still <hi>George</hi> is honeſt, for mercy interpoſing,</l>
+               <l>Preſerv'd from blood, next night there comes a cloſing;</l>
+               <l>What would you have brave Citizens, ſaith hee?</l>
+               <l>What ſhall I do for your grand Liberty?</l>
+               <l>Free Parliament, ſaid they, my Lord wee crave,</l>
+               <l>That you the Kingdome and the City ſave;</l>
+               <l>Free Parliament, ſaith <hi>George,</hi> all <hi>Guild-Hall</hi> ſhouting,</l>
+               <l>The City-bonfires, ſhew'd, the Rump was routing.</l>
+               <l>Some Quakers oft fore-told the Cities burning,</l>
+               <l>Cry now, into ſad Aſhes <hi>London</hi>'s turning.</l>
+            </lg>
+            <lg>
+               <l>Free us, ſaith <hi>London,</hi> from this groſs deluding,</l>
+               <l>Bring in thoſe members which the Rump ſecluding,</l>
+               <l>Eleven years kept out, Great <hi>George</hi> takes off</l>
+               <l>The force, the Members ſit, the Rump doth ſcoff,</l>
+               <l>Some guilty ſouls ſtay from the Houſe, theſe make</l>
+               <l>Brave <hi>Monk</hi> our General, now the Rump doth quake,</l>
+               <l>
+                  <hi>Monk</hi>'s bravely feaſted, but hee ſtill doth work</l>
+               <l>How to prevent the Rumpiſh Serpents lurk.</l>
+               <l>The guilty Sectaries, now they ſadly cry,</l>
+               <l>
+                  <hi>Monk</hi> cheats us all with <hi>Scotch</hi> Presbytery.</l>
+            </lg>
+            <lg>
+               <l>In one months time th' ſecluded Members bring</l>
+               <l>More good to th' Nation, than the Rump ſitting</l>
+               <l>Twelve years; the Houſe of Lords were lacking</l>
+               <l>To ſettle Law, but now the Rump is packing.</l>
+               <l>
+                  <hi>Middleton</hi> and <hi>Brown,</hi> and <hi>Cheſter</hi>'s <hi>Booth</hi> reſtore,</l>
+               <l>Free Parliament procure, ſo that the door</l>
+               <l>Upon neceſſity this hinge they move,</l>
+               <l>Our hopes begin to ſettle, our hearts to love.</l>
+               <l>How gladly did the people all rejoyce</l>
+               <l>For King and Laws to God lift up their voice?</l>
+            </lg>
+            <lg>
+               <pb n="39" facs="tcp:30536:23"/>
+               <l>In all theſe times ſome Church-men ſtill were acting</l>
+               <l>Above their ſphear, Church-power ſtill contracting.</l>
+               <l>Thus <hi>Noll</hi> had Triers, <hi>Nyes</hi> Prelates, worſer things</l>
+               <l>Than Biſhops far, having both pride and ſtings,</l>
+               <l>Dub'd Lay-men-Prieſts, State humour thereby fitting</l>
+               <l>Great <hi>Noll</hi>'s grand Hierarchy, the powers flitting;</l>
+               <l>Theſe much cry'd out by others, often ſaid,</l>
+               <l>
+                  <hi>Noll</hi> was chief Magiſtrate, hee muſt bee obeyed;</l>
+               <l>Yet in that little ſudden change, ſome men</l>
+               <l>Who ſpake againſt the reſt, get power then.</l>
+            </lg>
+            <lg>
+               <l>Into Church-Livings Presbyters admit</l>
+               <l>Judges of Titles make themſelves, and ſit</l>
+               <l>Archbiſhop-like, others i'th' Country make</l>
+               <l>Juſt thirty one, of their Clerks Fees partake.</l>
+               <l>Thus all get power, the Churches Right invade,</l>
+               <l>Moſt drive their own deſigns, and get a Trade;</l>
+               <l>The Houſe of Commons alone, they could not make</l>
+               <l>A Law, yet theſe from them this power take.</l>
+               <l>True Church-men prayed that they again might ſee</l>
+               <l>Church-power fixt by Law and Majeſty.</l>
+            </lg>
+            <lg>
+               <l>The Biſhops ſettled were by ſeveral Kings</l>
+               <l>And Parlaments, and Antient Laws, the Springs</l>
+               <l>Of Government, theſe voted down, for Reaſons</l>
+               <l>Which to their adverſe party ſeemed Treaſons.</l>
+               <l>
+                  <hi>Nolls</hi> Independents cheated us each hour,</l>
+               <l>The Presbyterians now have got ſhort power,</l>
+               <l>Sit by no Law, but of neceſſity;</l>
+               <l>I will not blame in this their Piety.</l>
+               <l>Who would think this, but that the Churches power</l>
+               <l>Is very ſweet, ſince all men it devour?</l>
+            </lg>
+            <lg>
+               <pb n="40" facs="tcp:30536:24"/>
+               <l>Is it not juſt that God unſettle all</l>
+               <l>Again, and make us ſenſible of our fall,</l>
+               <l>Since it is true that Civil Rule doth come</l>
+               <l>From Monarchy, as beams come from the Sun?</l>
+               <l>Church Government from Chriſt, the Churches King,</l>
+               <l>And Primitive Biſhops down from him they bring,</l>
+               <l>Conſtant in preaching, faithful in governing.</l>
+               <l>Their great laborious works their praiſes ſing.</l>
+               <l>But Prelacy, as Lords the King did make,</l>
+               <l>And did again their power from them take.</l>
+            </lg>
+            <lg>
+               <l>Biſhops and Presbyters Chriſts true Miniſtry,</l>
+               <l>Councils and Synods his Authority,</l>
+               <l>Lord Prieſt, Lord Cardinal, Lord Pope a ſtring</l>
+               <l>Of Antichriſt, when ſet above the King,</l>
+               <l>Let Scripture and the firſt times Hiſtory</l>
+               <l>Declare, God will take off the <hi>Romiſh</hi> Myſtery,</l>
+               <l>Set pride and Intereſt aſide, and cry,</l>
+               <l>
+                  <hi>Sol in occaſu,</hi> love knits in piety.</l>
+               <l>
+                  <hi>Rome</hi> laughs at all, the Sects do daily cry,</l>
+               <l>It's Pride and Covetouſneſs rules our Miniſtry.</l>
+            </lg>
+            <lg>
+               <l>Thoſe better Members then they did preſent</l>
+               <l>A Council of State, until the Parliament</l>
+               <l>Did meet, who do with prudence rule; the Rump</l>
+               <l>By <hi>Lamberts</hi> ſcape again thought to bee Trump;</l>
+               <l>But <hi>Ingoldsby</hi> and's ſouldiers take them napping,</l>
+               <l>And ſo preſerve us from the Sects entrapping;</l>
+               <l>Some fly and get away, 'cauſe Guilt was ſeizing</l>
+               <l>Upon their ſouls, but ſome lye hid, ſtill fearing.</l>
+               <l>Thus God works for us, and prevents thoſe men,</l>
+               <l>Whoſe Arms and luſt ſtill chang'd, and chang'd agen.</l>
+            </lg>
+            <lg>
+               <pb n="41" facs="tcp:30536:24"/>
+               <l>Some bite their nails, ſome ſcratch their heads, and ſing</l>
+               <l>A <hi>Palinode,</hi> recanting every thing.</l>
+               <l>Some their oppreſſed ſtomacks up would bring,</l>
+               <l>Cauſe now's the time, God's judging for the King</l>
+               <l>Whoſe blood they ſhed, Lands bought, &amp; broke the hedg</l>
+               <l>Of Government, God give them mercy on the Sledge.</l>
+               <l>His friends triumph, his foes their hands do wring,</l>
+               <l>The Papiſts mourn, the Sects are ſad, trembling.</l>
+               <l>Rebels &amp; <hi>Regicides</hi> now may have their ſwing.</l>
+               <l>True Subjects cry, we hate proud Levelling.</l>
+            </lg>
+            <lg>
+               <l>The people, they their Parlaments are chuſing,</l>
+               <l>Moſt Rumpiſh men, the people ſtill refuſing.</l>
+               <l>The bent, and ſtrength, &amp; voyce oth' Nation ſing,</l>
+               <l>Chuſe ſuch a Parlament that may bring our King.</l>
+               <l>God orders Providence for the ſelf-ſame thing.</l>
+               <l>
+                  <hi>Monke</hi> with the Parlament our <hi>Charls</hi> doth bring.</l>
+               <l>Foul poyſonous Serpents, and that Rumpiſh ſting,</l>
+               <l>That pickt our purſe, and ſuckt our blood, forcing</l>
+               <l>Subjection by that proud and bloody thing,</l>
+               <l>Are all afraid oth' Parlaments ſitting.</l>
+            </lg>
+            <lg>
+               <l>Why ſhould Free Parlament ſuch terrour bring?</l>
+               <l>But Conſcience guilt into their ſouls did fling.</l>
+               <l>State-cheaters baſe, and all baſe Treaſurers cry,</l>
+               <l>We muſt caſt up account before we dye.</l>
+               <l>We Houſes bought and built, and purchaſt Land,</l>
+               <l>Then for a cipher, now they'l a figure ſtand.</l>
+               <l>God's juſt at laſt, though ſome years ſuffering ſin,</l>
+               <l>The wickeds reck'ning day it will come in.</l>
+               <l>The Rump's thrice roaſted, if we can repent,</l>
+               <l>Our ſad and black account we may prevent.</l>
+            </lg>
+            <lg>
+               <pb n="42" facs="tcp:30536:25"/>
+               <l>Gods time is beſt, to which we all ſubſcribe,</l>
+               <l>All faithfull Subjects, and true <hi>Levies</hi> Tribe.</l>
+               <l>We often pray'd, and ſigh'd, and groan'd to ſee</l>
+               <l>Our God take off <hi>Egyptian</hi> miſery.</l>
+               <l>When ſhall our <hi>Moſes</hi> come, and <hi>Aarons</hi> too,</l>
+               <l>To judge theſe Traitors, and our ſnares undo?</l>
+               <l>Was ever people thus oppreſt? bleſt God</l>
+               <l>Wee murmure not at thy Divine bleſt Rod,</l>
+               <l>But pray'd for juſtice, and for King and Laws,</l>
+               <l>That might throw down this ſtinking ſinking cauſe.</l>
+            </lg>
+            <lg>
+               <l>Grudge not at <hi>Pharaohs,</hi> or th' <hi>Egyptians</hi> Pluſh,</l>
+               <l>God did preſerve us in the burning buſh.</l>
+               <l>As all the plagues in that Grand Rump did ſhare,</l>
+               <l>So all our bleſſings in this ſettling are,</l>
+               <l>Bleſs God that did our Princes all preſerve</l>
+               <l>From dangers great, at home, abroad, to ſerve</l>
+               <l>Him in their Generations, holy, juſt,</l>
+               <l>To rule by Law, and not by will and muſt.</l>
+               <l>Gods bleſſed Providence ruling here and there,</l>
+               <l>Protects the juſt and innocent every where.</l>
+            </lg>
+            <lg>
+               <l>Say no man did it, but the King of Kings,</l>
+               <l>To fit them for moſt glorious bleſſed things.</l>
+               <l>The Rump is burnt, the Tragedy is ending,</l>
+               <l>God bleſs King <hi>Charls</hi> for ſtil his Faiths defending;</l>
+               <l>So let his enemies periſh all, wee ſing,</l>
+               <l>God hath brought home our Soveraign Lord the King.</l>
+               <l>Religion's come, with Laws and Liberty,</l>
+               <l>Peace, plenty, Juſtice, and Proſperity;</l>
+               <l>King <hi>Charls</hi> his glory now doth fully ſhine</l>
+               <l>In this our <hi>Charls,</hi> and in the bleſſed Trine.</l>
+            </lg>
+            <lg>
+               <pb n="43" facs="tcp:30536:25"/>
+               <l>Our Rampant Lion's come, whom but to name</l>
+               <l>'S joy to his friends, and to his foes their ſhame;</l>
+               <l>And with him thoſe two Royal Gracious Springs</l>
+               <l>Of Mercy, Truth and Peace, and all bleſſings.</l>
+               <l>My Muſe is weary of this Rumpiſh ſtory,</l>
+               <l>Only refreſht to ſing King <hi>Charls</hi> his glory.</l>
+               <l>If any take offence, it is becauſe</l>
+               <l>They're guilty of the wrong to King and Laws.</l>
+               <l>To ſing King <hi>Charls</hi> his welcome, Heaven inſpire</l>
+               <l>My chearful Muſe, and kindle all her fire.</l>
+            </lg>
+            <closer>Amen and Amen.</closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:30536:26"/>
+            <head>AN HUMBLE <hi>ELOGI<g ref="char:V">Ʋ</g>M,</hi> and Joyfull Acclamation, FOR The Welcome home of our Soveraign Lord the KING, CHARLS By the Grace of God, King of <hi>England, Scotland, France</hi> &amp; <hi>Ireland:</hi> Defender of the Antient, Catholick, Apo<g ref="char:EOLhyphen"/>ſtolick, Proteſtant Faith, which was profeſſed by the Antient, Primitive Church, Sealed with the blood of many Kings and Princes, Nobles and Biſhops, and other Faithful Saints, Crowned with the glory of Martyr<g ref="char:EOLhyphen"/>dome. And who is in all Cauſes, and over all Perſons, as well Eccleſiaſtical as Civil, next and immediatly un<g ref="char:EOLhyphen"/>der Chriſt, ſupreme Governour, in theſe his Majeſties Realms and Dominions.</head>
+            <epigraph>
+               <q>
+                  <l>Nunquam libertas Gratior extat</l>
+                  <l>Quam ſub Rege pio.</l>
+                  <l>Regis ad exemplum.</l>
+               </q>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </epigraph>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">P</seg>Yerian</hi> Siſters, ſacred, three times three:</l>
+               <l>
+                  <hi>Olympick Joves</hi> moſt Royal Progeny,</l>
+               <l>You that frequent the <hi>Heliconian</hi> Spring,</l>
+               <l>And on <hi>Parnaſſus Hill,</hi> do ſit and ſing,</l>
+               <l>Send down a quil from Angel <hi>Gabriels</hi> wing,</l>
+               <l>To write the welcome home of <hi>Charls</hi> our King,</l>
+               <l>Aſsiſt me now with your Seraphick skill,</l>
+               <l>
+                  <hi>Englands</hi> moſt joyfull Triumph to fulfill.</l>
+               <l>How all things did concur from Heavens high,</l>
+               <l>To wait upon great <hi>Charls</hi> his Majeſty.</l>
+            </lg>
+            <lg>
+               <pb n="45" facs="tcp:30536:26"/>
+               <l>I'th' Heavens above the glorious Angels ſing,</l>
+               <l>I'th' air the birds with joy exalt the wing,</l>
+               <l>The winds blew fair, the ſeas were calm, each thing</l>
+               <l>Joy'd here below ith'earths moſt peacefull ſpring.</l>
+               <l>Bleſt <hi>May</hi> King <hi>Charls</hi> his month, hence flouriſhing</l>
+               <l>Then born, then own'd, and then proclaimed King.</l>
+               <l>Thus Heavens, air, ſeas, and earth, ſhips, loyalling</l>
+               <l>All ſtrive to kiſſe the hand now royalling.</l>
+               <l>All in their order and in their nature bring,</l>
+               <l>A joyfull welcome home to <hi>Charls</hi> our King.</l>
+            </lg>
+            <lg>
+               <l>The Lords and Commons ſit, our gracious King</l>
+               <l>Prevents them all, his mercy offering</l>
+               <l>A gracious pardon, like God himſelf forgiving</l>
+               <l>The greateſt ſinners, that were ever living,</l>
+               <l>If they repent, return, his Goodneſs leading</l>
+               <l>The Parlament to think on waies of healing,</l>
+               <l>Moſt bleſſed letters and bleſt Proclamation</l>
+               <l>That ever came unto a troubled nation,</l>
+               <l>Mercy, it from the God of mercy ſprings,</l>
+               <l>It makes men like unto the King of Kings.</l>
+            </lg>
+            <lg>
+               <l>That wondrous ſtar that at his birth did ſhine</l>
+               <l>One thouſand ſix hundred thirty, <hi>Mays</hi> twenty nine</l>
+               <l>Gods Sabbaths eve, did then unite in bloud</l>
+               <l>All <hi>Europes</hi> princely families great and good</l>
+               <l>In this bleſt Prince, great Britiſh Majeſty</l>
+               <l>And alſo the great <hi>Saxon</hi> royalty,</l>
+               <l>Both <hi>Danes</hi> and <hi>Normans</hi> race, that <hi>German</hi> Prince</l>
+               <l>Elector Palatine increaſt his glory hence,</l>
+               <l>
+                  <hi>Swede, Pole,</hi> and moſt of Chriſtian Princes doe</l>
+               <l>Acknowledge their Alliance him unto.</l>
+            </lg>
+            <lg>
+               <pb n="46" facs="tcp:30536:27"/>
+               <l>This on the Fathers ſide is wondrous glory,</l>
+               <l>For this Great <hi>Charls,</hi> who now's the whole worlds ſtory,</l>
+               <l>The <hi>Spaniſh Auſtrian,</hi> on the Mothers ſide,</l>
+               <l>
+                  <hi>Burbones</hi> of <hi>France,</hi> they herein ſweetly glide;</l>
+               <l>The <hi>Medices</hi> of <hi>Florence</hi> they come in,</l>
+               <l>And now the Prime of <hi>Aurange</hi> more than bin;</l>
+               <l>Theſe with our Roſes, Lillies do entwine,</l>
+               <l>Which make King <hi>Charls</hi> his welcome more Divine.</l>
+               <l>
+                  <hi>Englands</hi> great ſplendor, that frees us from oppreſſing,</l>
+               <l>Chriſts Faith's defender, and ſo Gods gracious bleſſing.</l>
+            </lg>
+            <lg>
+               <l>One thouſand ſix hundred and thirtieth year</l>
+               <l>
+                  <hi>Mayes</hi> twenty nine, the ſtars type doth appear.</l>
+               <l>Laſt <hi>Tueſday</hi> in each month hee faſts, retiring,</l>
+               <l>Conſults with God, and all his waies admiring.</l>
+               <l>Firſt <hi>Tueſday</hi> in this <hi>May</hi> hee's own'd as King</l>
+               <l>By th' Parlament, a bleſſed happy thing;</l>
+               <l>Next <hi>Tueſday</hi> in this <hi>May</hi> proclaim'd our King,</l>
+               <l>Both Parlament and City flouriſhing;</l>
+               <l>Laſt <hi>Tueſday,</hi> nine and twentieth of this <hi>May,</hi>
+               </l>
+               <l>Our glorious King appears, his own Birth-day.</l>
+            </lg>
+            <lg>
+               <l>For one black <hi>Tueſday,</hi> three are very clear,</l>
+               <l>All welcoming King <hi>Charls</hi> his coming here.</l>
+               <l>The Winds thought it their Honour, for to come</l>
+               <l>And blow King <hi>Charls,</hi> and his Royal Brothers home,</l>
+               <l>From <hi>Hollands Hague,</hi> the Seas rejoyc'd much more,</l>
+               <l>To bring our King and Princes to our ſhore.</l>
+               <l>Brave <hi>Mountagues</hi> great Ships are now turn'd Royal,</l>
+               <l>For why, King <hi>Charls</hi> hath made them truly loyal.</l>
+               <l>He's come, he's come, the doubling ecchoes cry,</l>
+               <l>
+                  <hi>Dovers</hi> white Rocks receive his Majeſty.</l>
+            </lg>
+            <lg>
+               <pb n="47" facs="tcp:30536:27"/>
+               <l>Brave <hi>Monck</hi> receives him firſt, conducts &amp; brings</l>
+               <l>
+                  <hi>Charls</hi> to his Courts where's Anceſtors ſate Kings.</l>
+               <l>The ſeat of Kings Arch-Biſhops <hi>Canterbury</hi>
+               </l>
+               <l>Sing Sabbath praiſes, make his ſoul moſt merry;</l>
+               <l>Then <hi>Rocheſter,</hi> from thence to <hi>London</hi> comes</l>
+               <l>With Princes, Nobles, Gentry, Souldiers, Drums,</l>
+               <l>Fair Virgins all in white ſweet flowers ſtrowing,</l>
+               <l>And all the people, old and young, God praiſing.</l>
+               <l>He mounts the ſteed upon <hi>Black-Heath</hi> to ſee</l>
+               <l>His people Joy in this proſperity.</l>
+            </lg>
+            <lg>
+               <l>Our God the humble ſoul, is recompencing,</l>
+               <l>On's own birth-Day his Triumphs here commencing.</l>
+               <l>On's own birth-Day the Lord Mayer banqueting</l>
+               <l>Princes, and Nobles, with Joy refreſh the King.</l>
+               <l>On's own birth-Day the Miniſters preſenting</l>
+               <l>Gods Sacred Book, the King with Joy accepting;</l>
+               <l>Like to his ſtately Princely brothers royal</l>
+               <l>Oth' right hand ſtands <hi>St. Paul,</hi> Religion, loyal;</l>
+               <l>Learning oth' left, the blew caps Pſalms did ſing.</l>
+               <l>Religion, Learning, Mercy, bleſſe our King.</l>
+            </lg>
+            <lg>
+               <l>Gods word, Gods Providence, books fit for Kings,</l>
+               <l>And's Fathers Solitudes, and ſufferings</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and experience</l>
+               <l>Books fit for Princes, full of excellence.</l>
+               <l>Theſe teach the greateſt Princes God to fear,</l>
+               <l>To Rule the Church for Chriſt, and to appear</l>
+               <l>For Juſtice, Truth, and Peace, and for the Laws,</l>
+               <l>The which makes God appear for Princes cauſe.</l>
+               <l>God doth expect return of Mercy lent,</l>
+               <l>God bleſſe King <hi>Charls,</hi> Law, Church, and Parlament.</l>
+            </lg>
+            <lg>
+               <pb n="48" facs="tcp:30536:28"/>
+               <l>Quite through the City rides our gracious King,</l>
+               <l>And's Princely Brothers, God bleſſe them, all did ſing.</l>
+               <l>All men were gallant, and the Conduits running,</l>
+               <l>Our waters turnd to wine by <hi>Charls</hi> his coming.</l>
+               <l>Up to <hi>White Hall</hi> the Parlament him greeting,</l>
+               <l>Three Kingdoms joyfull, happy, bleſſed meeting,</l>
+               <l>The view of Nations, Councels, ſtates, and things</l>
+               <l>Abroad, makes him the beſt of <hi>Europes</hi> Kings,</l>
+               <l>
+                  <hi>Charls</hi> will protect us with his wings, and eke</l>
+               <l>His ſword and ſcepter will true Subjects keep.</l>
+            </lg>
+            <lg>
+               <l>The Houſe of Lords his name eternizing,</l>
+               <l>The Houſe of Commons their allegiance bring,</l>
+               <l>Dukes, Marqueſſes, Earls, Viſcounts, Lords, Barons ſing,</l>
+               <l>All true born Gentry kneel unto their King.</l>
+               <l>Great <hi>George</hi> ſhall <hi>Joſeph</hi> be, and have the ring,</l>
+               <l>And ſecond Chariot of our gracious King,</l>
+               <l>We'l <hi>Abrech</hi> cry, and bow the knee, and ſing</l>
+               <l>Brave <hi>Monk</hi> hath brought Lords, Commons, &amp; the King.</l>
+               <l>We joy'd in <hi>Monk</hi> his morning ſtar to be,</l>
+               <l>Much more in him to whom <hi>George</hi> bowes the knee.</l>
+            </lg>
+            <lg>
+               <l>The City makes triumphant flouriſhing,</l>
+               <l>
+                  <hi>Allen</hi> Lord Mayor's Chain purple Glorying,</l>
+               <l>The Aldermens Gold Chains and ſcarlet bring,</l>
+               <l>Their due obedience unto <hi>Charls</hi> our King.</l>
+               <l>
+                  <hi>Brown</hi> leads the Horſe, gallant in Marſhalling,</l>
+               <l>
+                  <hi>Robinſon</hi> the foot, all to proclaim the King.</l>
+               <l>Brave <hi>Londons</hi> Companies in order ſitting,</l>
+               <l>To tender their allegiance juſt and fitting.</l>
+               <l>Sweet little babes <hi>Hoſanna</hi> cry that day,</l>
+               <l>De King, de King, God bleſſe King <hi>Charls</hi> they pray.</l>
+            </lg>
+            <lg>
+               <pb n="49" facs="tcp:30536:28"/>
+               <l>The Merchants brave, the Trades-men praiſes ſing,</l>
+               <l>The Virgins dance, young men their Caps up fling,</l>
+               <l>Old men and Matrons gravely pray and ſing,</l>
+               <l>'Cauſe they before they dye might ſee their King;</l>
+               <l>The Trumpets ſound, the Muſick tunes each ſtring,</l>
+               <l>The Canons roar, the Bonfires blaze, Bells ring,</l>
+               <l>The Wine's drawn forth, feaſting and banqueting,</l>
+               <l>Belconies, ſtreets and ſhops, all cry the King,</l>
+               <l>If ſuch a Diapaſon for the King</l>
+               <l>At his proclaiming, what will his preſence bring?</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Charls</hi> is come, beyond expreſsion wee</l>
+               <l>Rejoyce in this our Royal Trinity;</l>
+               <l>We're all orecome with joy, and cannot ſhew,</l>
+               <l>But with obedience in Allegiance bow.</l>
+               <l>Depths of Affection makes us truly loyal,</l>
+               <l>Mounts all our hearts to joy in him, moſt Royal,</l>
+               <l>We're all Seraphickly inflam'd to ſee</l>
+               <l>The Angels bring our King, and Liberty.</l>
+               <l>Now God himſelf preſerve our Gracious King,</l>
+               <l>Chriſt keep his ſoul, Angels protection bring.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Charls</hi> is come, all <hi>Englands</hi> Bells did ring;</l>
+               <l>
+                  <hi>England</hi>'s all voices, which did bravely ſing;</l>
+               <l>
+                  <hi>England</hi>'s all flaming Bonfires, for her King;</l>
+               <l>
+                  <hi>England</hi>'s all Muſick, ſtriking every ſtring;</l>
+               <l>
+                  <hi>England</hi>'s all Joy, no true man murmuring;</l>
+               <l>
+                  <hi>England</hi>'s all Peace, good men it furthering;</l>
+               <l>
+                  <hi>England</hi>'s all Happineſs, <hi>England</hi>'s all flouriſhing;</l>
+               <l>
+                  <hi>England</hi>'s all glory, King <hi>Charls</hi> them nouriſhing.</l>
+               <l>Thus <hi>England</hi>'s <hi>London,</hi> and her Parliament,</l>
+               <l>Their faithful Joy unto King <hi>Charls</hi> preſent.</l>
+            </lg>
+            <lg>
+               <pb n="50" facs="tcp:30536:29"/>
+               <l>Leaſt witches, wizards, ſects, or diveliſh thing,</l>
+               <l>Jugling Aſtrologers, blaſt his bleſt ſetling;</l>
+               <l>Our tears as waves, our prayers as winds did bring,</l>
+               <l>Our hearts as ſhips and ſails to <hi>Charls</hi> our King,</l>
+               <l>For his return, and now our Lands we cry,</l>
+               <l>Our goods, and lives, are his, that he thereby</l>
+               <l>May ſettle Church, and ſtate, all in Gods fear;</l>
+               <l>God is the author of his happineſs here.</l>
+               <l>Maugre fanatick rage, the Heavens bring</l>
+               <l>Our Prince a Saint, our <hi>Charls</hi> a Soveraign King.</l>
+            </lg>
+            <lg>
+               <l>How are the Pulpits turn'd the City round?</l>
+               <l>How do they now King <hi>Charls</hi> his praiſe refound?</l>
+               <l>Sure too much fire was in them heretofore,</l>
+               <l>But now Gods Providence, they do adore.</l>
+               <l>Thy Kingdome come, was Treaſon for to pray,</l>
+               <l>Yea for to think in that black Rumpiſh day.</l>
+               <l>Twas Treaſon, to be Honeſt, Juſt, and True,</l>
+               <l>To keep our Oaths, and Covenants moſt due.</l>
+               <l>No more Sedition, let any man now teach</l>
+               <l>But truly, purely, gravely Gods Word preach.</l>
+            </lg>
+            <lg>
+               <l>The Heads of <hi>Iſraels</hi> Tribes and Princes bring</l>
+               <l>At thirty years old, good <hi>David, Judahs</hi> King,</l>
+               <l>To <hi>Iſraels</hi> Throne, and then all covenanting,</l>
+               <l>Before the Lord they there anoint him King.</l>
+               <l>The <hi>Jebuſites</hi> him ſcorn, moſt baſely railing,</l>
+               <l>The <hi>Philistims</hi> him threat, moſt baſely raging;</l>
+               <l>Hee conquers all by righteous valour, reigning</l>
+               <l>Full forty years <hi>Judahs</hi> and <hi>Iſraels</hi> King.</l>
+               <l>Wee'l make the Parallel bleſt <hi>Charls</hi> in thee</l>
+               <l>Three Kingdomes glory to poſterity.</l>
+            </lg>
+            <lg>
+               <pb n="51" facs="tcp:30536:29"/>
+               <l>Our Tribes and Princes, Lords and Commons bring</l>
+               <l>At thirty years old, Allegiance to our King;</l>
+               <l>
+                  <hi>Jebuſites</hi> and <hi>Philiſtims</hi> do ſhew their ſting,</l>
+               <l>But <hi>Charls</hi> in Gods Name all is conquering,</l>
+               <l>By brave <hi>Monks</hi> conduct, and our covenanting;</l>
+               <l>Before the Lord God will anoint him King;</l>
+               <l>Since <hi>David</hi>'s gone, and <hi>Solomon</hi>'s Reigning,</l>
+               <l>Twice forty years let's pray God bleſs our King;</l>
+               <l>Our Goſpel, true Allegiance we will bring</l>
+               <l>To <hi>Charls</hi> the Second our Soveraign Lord the King.</l>
+            </lg>
+            <lg>
+               <l>God fitted <hi>David</hi> by humble ſuffering,</l>
+               <l>In a ſtrange Nation, under a ſtrange King,</l>
+               <l>Betray'd at home, abroad hee's travelling,</l>
+               <l>The myſteries of other States unravelling;</l>
+               <l>When Gods time's come, hee's then brought home, made King,</l>
+               <l>Rules much for God, ſettles each holy thing.</l>
+               <l>As <hi>Moſes</hi> Law commands, no Worſhip new</l>
+               <l>Sets up, but what the Lord injoyns that's true.</l>
+               <l>In this, Great <hi>Charls,</hi> thou art the Parallel,</l>
+               <l>Rule much for God and Chriſt, all ſhall be well.</l>
+            </lg>
+            <lg>
+               <l>The Law's reform'd, the Goſpels glad tiding</l>
+               <l>Of Truth and Peace here ſettled by our King,</l>
+               <l>Prerogative and Priviledge agreeing,</l>
+               <l>Juſt Liberty and Property all ſeeing,</l>
+               <l>The Paroxiſms of Church and State compiling,</l>
+               <l>Both <hi>Paul</hi> and <hi>Barnabas, Charls</hi> is reconciling,</l>
+               <l>Like <hi>Moſes,</hi> from the Mount of God deſcends</l>
+               <l>Our bleſſed <hi>Charls,</hi> and all true Saints makes friends,</l>
+               <l>Confirms the Tables, Goſpel and the Law,</l>
+               <l>And by his good Examples doth us draw.</l>
+            </lg>
+            <lg>
+               <pb n="52" facs="tcp:30536:30"/>
+               <l>Oppreſs no conſcience, Fundamentals holding,</l>
+               <l>Oblige juſt Intereſts, mercy them infolding;</l>
+               <l>Impoſe no Ceremonies that are found oppreſsing,</l>
+               <l>All new Religions ſtop Gods ſacred bleſsing,</l>
+               <l>Make Service moſt Divine, the Rule's Gods Word,</l>
+               <l>So ſaies our Articles, and ſo the Lord;</l>
+               <l>It is moſt fit and glorious for Kings</l>
+               <l>Of Haereſie and Faction, to break the ſprings,</l>
+               <l>T' Reform the Church, proud Antichriſt diſpelling,</l>
+               <l>Then Chriſt in Grace will in our Church be dwelling.</l>
+            </lg>
+            <lg>
+               <l>Prophaneneſs puniſh'd, and falſe worſhipping,</l>
+               <l>Religion advanc'd, and each holy thing</l>
+               <l>That's truly Proteſtant, here flouriſhing,</l>
+               <l>No Romiſh Serpents Relicks nouriſhing,</l>
+               <l>All Popelings baniſh'd, Goſpel Biſhops ſing</l>
+               <l>Glory to God, and Grace unto our King.</l>
+               <l>Thus good Kings do for God, his ſacred Word</l>
+               <l>'S their Rule for Life, and reign they would Gods Sword.</l>
+               <l>Peace, Mercy, Truth and Juſtice this will bring,</l>
+               <l>And then three Kingdomes joy in <hi>Charls</hi> our King.</l>
+            </lg>
+            <lg>
+               <l>No Power but the Power Omnipotent</l>
+               <l>Could extricate us from that curſed Rent</l>
+               <l>The Rump here made, and from that grand confuſion,</l>
+               <l>Both in the State, and in the Church deluſion,</l>
+               <l>Their Blood and Treaſon pillars of black ſmoak,</l>
+               <l>To drive from hence, our God wee did invoke,</l>
+               <l>God heard, and without any precious blood</l>
+               <l>Hath chang'd the cruel ſword for all our good;</l>
+               <l>In Kingly Power and Authority,</l>
+               <l>Doth ſhine th' eternal Gods bleſt Majeſty.</l>
+            </lg>
+            <lg>
+               <pb n="53" facs="tcp:30536:30"/>
+               <l>In theſe ſad times our Church was rent, dividing</l>
+               <l>Sect againſt Sect, each one the other ſleighting;</l>
+               <l>Of Diſcipline were divers names declaring</l>
+               <l>Diviſion, and worſer Sects all theſe out daring;</l>
+               <l>Report doth tell, that all theſe Chriſt are preaching,</l>
+               <l>And yet their own Thoughts and Opinions teaching;</l>
+               <l>Some Truth may bee in moſt, by Truths compoſing,</l>
+               <l>King <hi>Charls,</hi> like God, with Goſpel Saints is clozing.</l>
+               <l>Satan ſow'd Tares when as the Prieſts were ſleeping,</l>
+               <l>But now King <hi>Charls</hi> will keep the Church from weep<g ref="char:EOLhyphen"/>ing.</l>
+            </lg>
+            <lg>
+               <l>A King of Providence, and of Prayers a King,</l>
+               <l>A King of Mercy, a great experienc'd King,</l>
+               <l>A King of Promiſe, God him alwaies making,</l>
+               <l>The Churches Nurſing Father, of Grace partaking,</l>
+               <l>A King of valour, Chriſt's true Faith's Defendor,</l>
+               <l>Both juſt and merciful, our glorious ſplendour,</l>
+               <l>A King of wonders, preſerved for this thing,</l>
+               <l>Both Church and State in Gods Name governing;</l>
+               <l>For this all Providences did him bring,</l>
+               <l>For this God bleſs our Soveraign Lord the King.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Worſters</hi> Deliverance, that wonderful thing,</l>
+               <l>Mercies Deliverance, from Popery's ſting,</l>
+               <l>Beyond the Seas God ſtill preſerv'd our King,</l>
+               <l>At home, Sects, Army, gone ſans blood or ſtring,</l>
+               <l>From Heaven ſanctified by ſuffering,</l>
+               <l>Whilſt hee in Gods fear ſtill is governing.</l>
+               <l>True Prieſts, true Saints, their <hi>Hallelujah</hi> ſing,</l>
+               <l>Bleſſed bee God, that bleſſed hath our King;</l>
+               <l>The Lord make <hi>Charls</hi> his love and true delight,</l>
+               <l>No man to wrong, and every man to right</l>
+            </lg>
+            <lg>
+               <pb n="54" facs="tcp:30536:31"/>
+               <l>Exceeding great's the Example of a King,</l>
+               <l>It doth on his a powerful influence bring.</l>
+               <l>Bleſt <hi>Conſtantine</hi> firſt Chriſtian Emperour King,</l>
+               <l>With Orthodox Divines his Court did ſpring.</l>
+               <l>
+                  <hi>Auguſtus</hi> Court is ſtor'd with men of learning,</l>
+               <l>Hee's learn'd himſelf, and therefore thoſe preferring;</l>
+               <l>But drunk <hi>Tiberius</hi> Court with ſots is filling,</l>
+               <l>Debauching Healths <hi>Tricongius</hi> knighted ſwilling.</l>
+               <l>Religious Court Religious men will ſing,</l>
+               <l>
+                  <hi>Conſtantine</hi> and <hi>Auguſtus Charls</hi> our King.</l>
+            </lg>
+            <lg>
+               <l>Wee ſadly read of <hi>Amaziahs</hi> halting,</l>
+               <l>And alſo of wiſe <hi>Solomon's</hi> revolting,</l>
+               <l>Of <hi>Rehoboams</hi> raſhneſs, by reſpecting</l>
+               <l>Young States-mens Counſels, Sages grave rejecting;</l>
+               <l>Of <hi>Jeroboams</hi> Calves the Tribes dividing</l>
+               <l>Pretends Religion for his wicked ſiding;</l>
+               <l>Of <hi>Uzzahs</hi> miſ-lead Zeal, and of <hi>Uzziah</hi>
+               </l>
+               <l>Becoming Prieſt, the blood of <hi>Zachariah,</hi>
+               </l>
+               <l>Son of <hi>Jehoiada</hi> High-Prieſt, moſt Royal,</l>
+               <l>From theſe God bleſs our King, and keep us loyal.</l>
+            </lg>
+            <lg>
+               <l>God give Great <hi>Charls</hi> King <hi>Davids</hi> perfect heart,</l>
+               <l>King <hi>Solomons</hi> wiſdome, God to him impart,</l>
+               <l>
+                  <hi>Joſiahs</hi> Holineſs, in each Religious thing,</l>
+               <l>And <hi>Hezekiahs</hi> comforts to our King.</l>
+               <l>Bleſt King <hi>Jehoſaphats</hi> ſucceſs and honour,</l>
+               <l>Bleſt <hi>Moſes</hi> meekneſs, and bleſt <hi>Joſhuahs</hi> valour.</l>
+               <l>
+                  <hi>Edward</hi> the ſixth, moſt glorious Piety,</l>
+               <l>
+                  <hi>Elizabeths</hi> moſt bleſt Proſperity.</l>
+               <l>King <hi>James</hi> his Learning, and King <hi>Charls</hi> his Grace,</l>
+               <l>God give to <hi>Charls,</hi> and to the Royal Race.</l>
+            </lg>
+            <lg>
+               <pb n="55" facs="tcp:30536:31"/>
+               <l>A bleſſed, holy, glorious Martyr'd King</l>
+               <l>At's death a private oath Remembering</l>
+               <l>Shewd excellent grace, an oaths a ſacred thing</l>
+               <l>Where Gods call'd in, and God expects performing</l>
+               <l>Of ſerious Vowes, and ſacred Oaths, once made</l>
+               <l>In time of trouble performance muſt be had,</l>
+               <l>The juſt, and holy God he hates the breaking</l>
+               <l>Of oaths and vowes, true ſaints their oaths are keeping,</l>
+               <l>If th' oath, were falſe for ſhame let ne're be ſpoken</l>
+               <l>If th' oath were true, why ſhould it ere be broken.</l>
+            </lg>
+            <lg>
+               <l>Brave <hi>London</hi> feaſts both King, and Parlament</l>
+               <l>And both the royal Princes, and do preſent</l>
+               <l>A Cupboard of Plate, in that great City lye</l>
+               <l>Beſt Subjects hearts and greateſt Treaſury;</l>
+               <l>Thy great Imperial Chamber <hi>Charls</hi> it is,</l>
+               <l>Whileſt thou grantſt them their royal liberties,</l>
+               <l>The feaſt was great, their hearts are far more royal,</l>
+               <l>Their Love, their Faith, their Duty, now is loyal.</l>
+               <l>Time, Truth, and Fame, their ſeveral ſpeeches make</l>
+               <l>Pardon great ſir, for there was ſome miſtake.</l>
+            </lg>
+            <lg>
+               <l>In <hi>England</hi> born, the Scots firſt crown'd him King</l>
+               <l>Brave <hi>Ireland</hi> alſo their allegiance bring.</l>
+               <l>Great Monarch live, we humbly waite and pray</l>
+               <l>To ſee thy happy, bleſſed, Crowning day.</l>
+               <l>When <hi>Charles</hi> ſhall leave this mortal Crown, Lord bring</l>
+               <l>Him that immortal Crown, where Angels ſing.</l>
+               <l>Of <hi>Charls</hi> the Martyrs Race in Heaven now glorying,</l>
+               <l>Let <hi>England</hi> never want a gracious King.</l>
+               <l>Thus all true Subjects pray for <hi>Charls</hi> our King,</l>
+               <l>Pardon great Sir my Muſes warbleing.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
